@@ -2,7 +2,7 @@
 	{
 		"name": "Alguarena",
 		"leaderName": "Présidente Fédérale Mazeri Abrogara",
-		"adjective": ["	Alguareno"],
+		"adjective": ["Alguareno"],
 		"startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Diplomatic",
 		
@@ -37,7 +37,7 @@
 	{
 		"name": "Pharois",
 		"leaderName": "Ransu Rasanen",
-		"adjective": ["	Pharois"],
+		"adjective": ["Pharois"],
 		"startBias": ["Coast", "Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		
@@ -67,5 +67,40 @@
 		"uniqueName": "République Pirate",
 	        "uniques": ["[+2] Movement <for [Water] units>","[+1 Gold] from each Trade Route","When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",],
 		"cities": ["Pharot", "Pohjoishammas", "Helmi", "Kanavaportti", "Caprice Coast", "Hylkeenlahti", "Etelähammas", "Tummametsä", "Suuretaallot", "Valaidenportti", "Majakka", "Merivoso", "Albigärk", "Porto Mundo"]
+	},
+
+	{
+		"name": "Grand Kah",
+		"leaderName": "Comité de Volonté Publique",
+		"adjective": ["Kah-tanais"],
+		"startBias": ["Avoid [Tundra], [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Le Grand Kah est un ensemble de provinces coloniales et autochtones s'étant rebellées il y a de ça plusieurs siècles pour fonder une république libre et indépendante opposée à l’esclavagisme et prônant des notions de liberté, de vertu et de démocratie. Sa culture est un mélange de celle des colons latins, sino-japonais et des autochtones plus tribaux. Le zèle révolutionnaire ne se calma jamais vraiment en ça que plusieurs aventures autoritaires et monarchiques poussées d’abord par les classes bourgeoises ayant survécu à la première révolution puis par les partisans d'un leader militaire particulièrement populaire (Jin Sukaretto) furent à leur tour balayées par des insurrections, et que la liberté toute particulière laissée par le Kah à ses habitants attira quelques-uns des exilés politiques, judiciaires et des idéalistes les plus notables du globe au cours des siècles, sans parler des réfugiés en tout genre.",
+		"startIntroPart2": "Le Kah est, selon la conception officielle des leaders de la première révolution, une Roue. Un éternel recommencement qui progresse sur une même route, idée héritée des croyances ancestrales autochtones et mis en forme par des penseurs humanistes et objectivistes locaux.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Le Grand Kah s'est dressé. Sortant lentement de son sommeil, émergeant de son territoire comme un grand mammifère d'une bien trop longue hibernation, tâtant lentement le sol, surpris de voir comme il a changé.",
+		
+		"neutralHello": "Très amicalement.",
+		"neutralLetsHearIt": ["Très amicalement."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Vous avez des amis, à l'autre bout des mers."],
+
+		"hateHello": "Très amicalement.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Nous sommes loin de vous, mais notre cœur est à vos côtés."],
+		
+		"afterPeace": "Nous sommes loin de vous, mais notre cœur est à vos côtés. Puisse cette épreuve être le prélude d'un réveil des consciences, et non d'une abominable chute dans la noirceur.",
+		"tradeRequest": "Serrez donc la main qui vous est tendue.",
+
+		"outerColor": [155, 0, 0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Communalisme",
+	        "uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
+		"cities": ["Lac-Rouge", "Heon-Kuang", "Reaving", "Nayoga Lamanai", "Tlacuahian", "Somagoumbé", "Chan Chimù", "Gokiary"]
 	},
 ]
