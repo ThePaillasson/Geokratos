@@ -73,7 +73,7 @@
 		"name": "Grand Kah",
 		"leaderName": "Comité de Volonté Publique",
 		"adjective": ["Kah-tanais"],
-		"startBias": ["Avoid [Tundra], [Desert]"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Le Grand Kah est un ensemble de provinces coloniales et autochtones s'étant rebellées il y a de ça plusieurs siècles pour fonder une république libre et indépendante opposée à l’esclavagisme et prônant des notions de liberté, de vertu et de démocratie. Sa culture est un mélange de celle des colons latins, sino-japonais et des autochtones plus tribaux. Le zèle révolutionnaire ne se calma jamais vraiment en ça que plusieurs aventures autoritaires et monarchiques poussées d’abord par les classes bourgeoises ayant survécu à la première révolution puis par les partisans d'un leader militaire particulièrement populaire (Jin Sukaretto) furent à leur tour balayées par des insurrections, et que la liberté toute particulière laissée par le Kah à ses habitants attira quelques-uns des exilés politiques, judiciaires et des idéalistes les plus notables du globe au cours des siècles, sans parler des réfugiés en tout genre.",
@@ -102,5 +102,40 @@
 		"uniqueName": "Communalisme",
 	        "uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Lac-Rouge", "Heon-Kuang", "Reaving", "Nayoga Lamanai", "Tlacuahian", "Somagoumbé", "Chan Chimù", "Gokiary"]
+	},
+
+	{
+		"name": "Lofoten",
+		"leaderName": "Chancelière Fédérale Gudrün Stefersøn",
+		"adjective": ["Lofotèn"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Très attachés aux libertés fondamentales et au fédéralisme, les citoyens des Provinces-Unies tiennent absolument à leur autonomie régionale et au principe de la décentralisation, au profit d'une gouvernance locale par Province. L'absence de gouvernement central fort est régulièrement évoqué et mis en avant par les différents mouvements politiques même si dans les faits la capitale fédérale, de par son histoire et l'ensemble des institutions qui s'y trouvent, conserve une grande influence politique et sociale.",
+		"startIntroPart2": "La société Lofotène est réputée pour ses avancées sociales très novatrices, et ont très tôt accordé de nombreux droits civiques à leur population, peu après leur déclaration indépendance, notamment en matière de droits des femmes et des minorités, exception faites des minorités sexuelles LGBT à cause d'une très grande influence du protestantisme dans hautes sphères du pouvoir et les institutions éducatrices. Très libéral en matière de commerce, la population est dans l’immense majorité chrétienne-démocrate, plutôt centriste et naturellement méfiante et hostile envers le socialisme et son pendant le plus extrême : le communisme. Cependant, es dernières années, le nationalisme et le conservatisme ont fait une entrée en force dans le paysage politique et au parlement, avec un regain d'intérêt pour la nostalgie coloniale et la mythologique nordique fantasmée.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "Unis dans l’honneur, invaincus nous demeurons",
+		"introduction": "Madame la Conseillère d'Etat Fédérale aux Affaires Etrangères, Madame Catherine de Tocqueville-Masson, est heureuse de vous accueillir au nom des Provinces-Unies du Lofoten et de l'honorable Chancelière Fédérale Gudrün Stefersøn.",
+		
+		"neutralHello": "Madame la Conseillère d'Etat Fédérale aux Affaires Etrangères, Madame Catherine de Tocqueville-Masson, est heureuse de vous accueillir au nom des Provinces-Unies du Lofoten et de l'honorable Chancelière Fédérale Gudrün Stefersøn.",
+		"neutralLetsHearIt": ["Madame la Conseillère d'Etat Fédérale aux Affaires Etrangères, Madame Catherine de Tocqueville-Masson, est heureuse de vous accueillir au nom des Provinces-Unies du Lofoten et de l'honorable Chancelière Fédérale Gudrün Stefersøn."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Les Provinces-Unies du Lofoten sont une nation riche, dont la solvabilité est solide, et il est de notoriété publique que nous avons toujours remboursé nos dettes en temps et en heure."],
+
+		"hateHello": "Madame la Conseillère d'Etat Fédérale aux Affaires Etrangères, Madame Catherine de Tocqueville-Masson, est heureuse de vous accueillir au nom des Provinces-Unies du Lofoten et de l'honorable Chancelière Fédérale Gudrün Stefersøn.",
+		"hateLetsHearIt": ["Madame la Conseillère d'Etat Fédérale aux Affaires Etrangères, Madame Catherine de Tocqueville-Masson, est heureuse de vous accueillir au nom des Provinces-Unies du Lofoten et de l'honorable Chancelière Fédérale Gudrün Stefersøn."],
+		"hateNo": ["Non."],
+		"hateYes": ["Les Provinces-Unies du Lofoten sont une nation riche, dont la solvabilité est solide, et il est de notoriété publique que nous avons toujours remboursé nos dettes en temps et en heure."],
+		
+		"afterPeace": "Les Provinces-Unies du Lofoten sont une nation riche, dont la solvabilité est solide, et il est de notoriété publique que nous avons toujours remboursé nos dettes en temps et en heure.",
+		"tradeRequest": "Les Provinces-Unies du Lofoten sont une nation riche, dont la solvabilité est solide, et il est de notoriété publique que nous avons toujours remboursé nos dettes en temps et en heure.",
+
+		"outerColor": [19,37,132],
+		"innerColor": [243,41,38],
+		"uniqueName": "Progressisme",
+	        "uniques": ["[+50]% Golden Age length","[+1 Happiness] from every [City]"],
+		"cities": ["Pembertøn", "Kæviksbørg", "Port-Sainte-Anne", "Lübeck", "Ingebørg", "Nørdsvik", "Port-Skælländer", "Øst-Fårö", "Käskinen", "Fort-Saint-Augustin"]
 	},
 ]
