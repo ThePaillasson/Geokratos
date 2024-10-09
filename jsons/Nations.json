@@ -1,38 +1,71 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Alguarena",
+		"leaderName": "Présidente Fédérale Mazeri Abrogara",
+		"adjective": ["	Alguareno"],
+		"startBias": ["Coast", "Jungle"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "L’Alguarena est une fédération regroupant trois états insulaires de culture hispanophone et précolombienne. La naissance de cette fédération se lie à différents états fédérés ayant longtemps été en proie à la guerre durant l’âge coloniale (situé entre le XVIIe et le XIXe siècle). Durant cette ère, les principales dynasties blanches et latines régionales ont multiplié les affrontements pour dominer les archipels aux limites des deux empires. En s’emparant des îles, les deux camps espéraient pouvoir créer et entretenir l’une des principales routes commerciales internationales, participant à la jonction des deux hémisphères.",
+		"startIntroPart2": "Les aristocraties associées à ses deux empires ayant peu à peu perdu de leur panache, la paix et la coopération internationale s’est renforcée, laissant de côté les velléités coloniales. Les gouvernances des îles ayant fini par recouvrir leur indépendance, elles se sont rapprochées dans le but de reprendre en main l’activité économique régionale et de renoncer durablement à la guerre dans la région.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Malgré la certaine déception qui anime votre discours, permettez-moi de partager le plaisir qu’est le mien à inaugurer nos premiers échanges diplomatiques dignes de ce nom.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Vous n’êtes pas sans savoir que nos deux pays ont la possibilité de rendre ce monde meilleur, un espace bonifié par la densification des échanges commerciaux et le maintien d’une force de frappe dissuasive.",
+		"tradeRequest": "Vous n’êtes pas sans savoir que nos deux pays ont la possibilité de rendre ce monde meilleur, un espace bonifié par la densification des échanges commerciaux et le maintien d’une force de frappe dissuasive.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"outerColor": [51, 204, 204],
+		"innerColor": [255,204,0],
+		"uniqueName": "Organisation des Nations Commerçantes",
+	        "uniques": ["[+1 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation"],
+		"cities": ["Aserjuco", "Pomosejo", "Jacalbulco", "Chesterboro", "Santialche", "Cо́rteixo", "Atimalco", "Salvando"]
+	},
+
+	{
+		"name": "Pharois",
+		"leaderName": "Ransu Rasanen",
+		"adjective": ["	Pharois"],
+		"startBias": ["Coast", "Tundra"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "La Libre Association des Propriétaires de Phares et de Filets d'Eurysie Septentrionale est, comme son nom l'indique, un conglomérat de propriétaires terriens et de capitaines de navires. Suite à une révolution prolétarienne ratée au sein de l'ancien Royaume d'Albi, la petite bourgeoisie a prospéré sur la Grande et est parvenue à assurer sa mainmise sur cette région en proie au chaos. Elle y règne depuis avec pour seul et unique objectif la préservation de ses intérêts privés et du respect de la propriété territoriale. Ainsi, le Syndicat des Poissonniers s'apparente plus à une Fédération de commerçants qu'à un véritable État Nation, ce qui ne l'empêche absolument pas de s'être dotée d'institutions fonctionnelles et de prétendre à une représentation digne de ce nom à l'internationale.",
+		"startIntroPart2": "Il se compose majoritairement de villes côtières et industrielles, peu avancées dans les terres, ainsi que de plateformes de forage en mer.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Nos méthodes diffèrent mais nos buts sont les mêmes. Nous réglerons les questions théoriques quand le dernier bourgeois aura été envoyé par le fond. En ces temps où nos ennemis s'organisent, un minimum de coordination ne fait pas de mal, entre mes forces et les vôtres.",
+		
+		"neutralHello": "Parlez toujours, quelqu'un vous répondra certainement.",
+		"neutralLetsHearIt": ["Parlez toujours, quelqu'un vous répondra certainement."],
+		"neutralNo": ["Je suis peut-être âgé mais pas aveugle, me prenez vous pour une bille ?"],
+		"neutralYes": ["Je ne peux qu’être d’accord avec vous."],
+
+		"hateHello": "Parlez toujours, quelqu'un vous répondra certainement.",
+		"hateLetsHearIt": ["Parlez toujours, quelqu'un vous répondra certainement."],
+		"hateNo": ["Il n'est pas question de laisser votre gouvernement ou pire, vos forces armées, superviser cela."],
+		"hateYes": ["Nous sommes ennemis mais j'ai besoin de fric."],
+		
+		"afterPeace": "Ces termes nous conviennent donc à tous deux.",
+		"tradeRequest": "Au plaisir de faire affaire avec vous.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "République Pirate",
+	        "uniques": ["[+2] Movement <for [Water] units>","[+1 Gold] from each Trade Route","When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",],
+		"cities": ["Pharot", "Pohjoishammas", "Helmi", "Kanavaportti", "Caprice Coast", "Hylkeenlahti", "Etelähammas", "Tummametsä", "Suuretaallot", "Valaidenportti", "Majakka", "Merivoso", "Albigärk", "Porto Mundo"]
+	},
 ]
