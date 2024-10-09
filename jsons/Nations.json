@@ -5,6 +5,7 @@
 		"adjective": ["Alguareno"],
 		"startBias": ["Coast", "Jungle"],
 		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "L’Alguarena est une fédération regroupant trois états insulaires de culture hispanophone et précolombienne. La naissance de cette fédération se lie à différents états fédérés ayant longtemps été en proie à la guerre durant l’âge coloniale (situé entre le XVIIe et le XIXe siècle). Durant cette ère, les principales dynasties blanches et latines régionales ont multiplié les affrontements pour dominer les archipels aux limites des deux empires. En s’emparant des îles, les deux camps espéraient pouvoir créer et entretenir l’une des principales routes commerciales internationales, participant à la jonction des deux hémisphères.",
 		"startIntroPart2": "Les aristocraties associées à ses deux empires ayant peu à peu perdu de leur panache, la paix et la coopération internationale s’est renforcée, laissant de côté les velléités coloniales. Les gouvernances des îles ayant fini par recouvrir leur indépendance, elles se sont rapprochées dans le but de reprendre en main l’activité économique régionale et de renoncer durablement à la guerre dans la région.",
@@ -40,6 +41,7 @@
 		"adjective": ["Pharois"],
 		"startBias": ["Coast", "Tundra"],
 		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "La Libre Association des Propriétaires de Phares et de Filets d'Eurysie Septentrionale est, comme son nom l'indique, un conglomérat de propriétaires terriens et de capitaines de navires. Suite à une révolution prolétarienne ratée au sein de l'ancien Royaume d'Albi, la petite bourgeoisie a prospéré sur la Grande et est parvenue à assurer sa mainmise sur cette région en proie au chaos. Elle y règne depuis avec pour seul et unique objectif la préservation de ses intérêts privés et du respect de la propriété territoriale. Ainsi, le Syndicat des Poissonniers s'apparente plus à une Fédération de commerçants qu'à un véritable État Nation, ce qui ne l'empêche absolument pas de s'être dotée d'institutions fonctionnelles et de prétendre à une représentation digne de ce nom à l'internationale.",
 		"startIntroPart2": "Il se compose majoritairement de villes côtières et industrielles, peu avancées dans les terres, ainsi que de plateformes de forage en mer.",
@@ -110,6 +112,7 @@
 		"adjective": ["Lofotèn"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "Très attachés aux libertés fondamentales et au fédéralisme, les citoyens des Provinces-Unies tiennent absolument à leur autonomie régionale et au principe de la décentralisation, au profit d'une gouvernance locale par Province. L'absence de gouvernement central fort est régulièrement évoqué et mis en avant par les différents mouvements politiques même si dans les faits la capitale fédérale, de par son histoire et l'ensemble des institutions qui s'y trouvent, conserve une grande influence politique et sociale.",
 		"startIntroPart2": "La société Lofotène est réputée pour ses avancées sociales très novatrices, et ont très tôt accordé de nombreux droits civiques à leur population, peu après leur déclaration indépendance, notamment en matière de droits des femmes et des minorités, exception faites des minorités sexuelles LGBT à cause d'une très grande influence du protestantisme dans hautes sphères du pouvoir et les institutions éducatrices. Très libéral en matière de commerce, la population est dans l’immense majorité chrétienne-démocrate, plutôt centriste et naturellement méfiante et hostile envers le socialisme et son pendant le plus extrême : le communisme. Cependant, es dernières années, le nationalisme et le conservatisme ont fait une entrée en force dans le paysage politique et au parlement, avec un regain d'intérêt pour la nostalgie coloniale et la mythologique nordique fantasmée.",
