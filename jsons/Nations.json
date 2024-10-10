@@ -182,7 +182,7 @@
 		"name": "Teyla",
 		"leaderName": "Catherine III",
 		"adjective": ["Teylais"],
-		"startBias": ["Coast", "Jungle"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 		
@@ -212,6 +212,42 @@
                 "uniqueName": "Organisation des Nations Démocratiques",
 	        "uniques": ["[-50]% Unhappiness from [Population] [in all cities]", "[+10]% Strength <for [All] units> <during a Golden Age>", "Defense bonus when embarked <for [All] units>"],
 		"cities": ["Manticore", "Gèvre", "Cielazur", "Bellepierre", "Étoile-sur-Seine", "Villedor", "Val-deLys", "Lys-sur-Dune", "Châteauclair", "Saint-De-Tour"]
+	},
+
+        {
+		"name": "Fortuna",
+		"leaderName": "Francesca Federica di Fortuna",
+		"adjective": ["Fortunéen"],
+		"startBias": ["Coast", "Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "La Sérénissime République de Fortuna est d'après ses habitants l'un des plus vieux états du monde encore en place à ce jour. Ses origines remontant ainsi à la fin de l'époque antique et l'entrée dans la période médiévale, en cette époque trouble où les hommes s'affrontaient sans cesse pour des lopins de terres, des trésors de misères et quelques convictions douteuse",
+		"startIntroPart2": "D'après la légende, las des conflits et de l'anarchie ambiante, des hommes et des femmes de divers peuples décidèrent de s'exiler par delà les étendues aqueuses de l'ouest, pourtant leur voyage ne dura point longtemps, quelques jours à peine de traversée au gré des vents leur permis de gagner une île non loin sur laquelle trônait en sa partie orientale une large Lagune. C'est là qu'ils bâtirent la citée qu'ils nommèrent Fortuna, en l'honneur de Dame Fortune, Saint Patron de la chance, de la destinée et du hasard.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "C’est un plaisir de vous accueillir en Fortuna.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "C’est un plaisir de vous accueillir en Fortuna.",
+		"tradeRequest": "C’est un plaisir de vous accueillir en Fortuna.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,213],
+		"uniqueName": "Colonies",
+	        "uniques": ["[+1 Gold] from each Trade Route","[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>","[-66]% maintenance costs <for [Water] units>"],
+		"cities": ["Fortuna", "Lykaron", "Rio de Canossa", "Rivoli", "Marisma", "Miraglia", "Leandra", "Santa Leone"]
 	},
 
 ]
