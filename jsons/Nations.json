@@ -177,4 +177,39 @@
 	        "uniques": ["[+1 Gold] from each Trade Route", "[+1] Movement <for [Water] units>", "[-25]% maintenance costs <for [Water] units>"],
 		"cities": ["Agartha", "Azur", "Ankévran", "Majulia", "Lankasara", "Nanakarni", "Medhannala", "Panomyong", "Khumai", "Vijaya", "Semapani", "Wipulasin", "Siriwadena", "Ninrati", "Jagath", "Pantaseeha", "Amrasani", "Vidisha", "Kalihar", "Danijpur", "Bankura", "Monywan", "Pyapon", "Pannaya", "Ko Laqyia", "Prakyan", "Narathiwani", "Sungai", "Kuanthan", "Thanjavur", "Ramanrawan", "Tirunelveli", "Madikeri", "Murshani", "Satara", "Palwal", "Shandol", "Nainpur", "Baihar", "Mungeli", "Mahasanund", "Dhamtari", "Lakshmipur", "Brahmanjapar", "Anwara", "Kyugangon", "Minbyin", "Sansaran", "Susipitayong", "Katchakan", "Phya Natini", "Prastavani", "Tangwoni", "Seesrali", "Nethamana", "Koi Lanyonh", "Kamsiwiluk", "Palipanin", "Sitakunda", "Rajbiran"]
 	},
+
+	{
+		"name": "Teyla",
+		"leaderName": "Catherine III",
+		"adjective": ["Teylais"],
+		"startBias": ["Coast", "Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Le meilleur régime politique est la monarchie absolue tempérée par l'assassinat.",
+		"startIntroPart2": "Par ces mots ont résume brièvement mais sincèrement l’histoire du Royaume de Teyla. Cela a même amené un dicton célèbre parmi la population "Que ceux qui ne sont pas assassinés puissent à jamais se mettre un coup de couteau”. Un dicton bien lugubre qui conseil a tout puissant n’ayant pas fait l’objet d’une tentative d’assassinat de simuler une telle tentative pour échapper aux futurs tentatives d'assassinats.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Par ma fonction, j'ai l'honneur de vous écrire pour vous faire part du souhait de ma nation d'entamer le dialogue diplomatique entre nos nations.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["J'espère que cela sera un exemple futur pour nos nations dans la conduite des relations diplomatiques."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["J'espère que cela sera un exemple futur pour nos nations dans la conduite des relations diplomatiques."],
+		
+		"afterPeace": "Je suis un homme optimiste et convaincu que ce message sera l'origine d'avancées profitant a nos nations et peuples tout en poursuivant un but commun.",
+		"tradeRequest": "Très cher homologue, j'ai le privilège de vous adresser les chaleureuses salutations de mon peuple pour le Royaume de Teyla. Sachez que c'est avec un immense honneur et une immense joie que je vous écris.",
+
+		"outerColor": [0,68,82],
+		"innerColor": [247,198,56],
+		"cities": ["Manticore", "Gèvre", "Cielazur", "Bellepierre", "Étoile-sur-Seine", "Villedor", "Val-deLys", "Lys-sur-Dune", "Châteauclair", "Saint-De-Tour"]
+	},
+
 ]
