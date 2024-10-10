@@ -209,6 +209,8 @@
 
 		"outerColor": [0,68,82],
 		"innerColor": [247,198,56],
+                "uniqueName": "Organisation des Nations Démocratiques",
+	        "uniques": ["[-50]% Unhappiness from [Population] [in all cities]", "[+10]% Strength <for [All] units> <during a Golden Age>", "Defense bonus when embarked <for [All] units>"],
 		"cities": ["Manticore", "Gèvre", "Cielazur", "Bellepierre", "Étoile-sur-Seine", "Villedor", "Val-deLys", "Lys-sur-Dune", "Châteauclair", "Saint-De-Tour"]
 	},
 
