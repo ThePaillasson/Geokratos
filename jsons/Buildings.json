@@ -6,7 +6,8 @@
 		"happiness": 6,
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
-		"requiredTech": "Refrigeration"
+		"requiredTech": "Refrigeration",
+		"civilopediaText": [{"text": "Si les sports mêlés à la technologie, à l'instar du Grand Prix de stock-car pour l'archipel ou le salon de l'aéronautique connaissent un intérêt fluctuant auprès de la population, force est de constater que le football profite lui d'un ancrage plus confortable au sein de la société alguarena. Identifié sport national avant même le phénomène croissant de mondialisation, le football a toujours su capter l'intérêt des foules du pays, les agglomérant autour d'une ou plusieurs de leurs équipes favorites."}]
 	},
 	
 	{
@@ -28,6 +29,7 @@
 		"requiredBuilding": "Hospital",
 		"maintenance": 3,
 		"requiredTech": "Pharmaceuticals",
-		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Gold]"]
+		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Gold]"],
+		"civilopediaText": [{"text": "Ce groupe pharmaceutique s'est spécialisé dans les biotechnologies innovantes et les manipulations génétiques. Son excentrique et fantasque fondateur, le Dr Walther Applewhite, biologiste de formation, qui s'est fait connaître par ses déclarations tonitruantes en annonçant vouloir ressusciter et repeupler la terre des créatures et espèces animales disparues et éteinte depuis longtemps."}]
 	}
 ]
