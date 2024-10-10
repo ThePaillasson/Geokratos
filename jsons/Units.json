@@ -57,5 +57,5 @@
 		"obsoleteTech": "Rifling",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
-	},
+	}
 ]
