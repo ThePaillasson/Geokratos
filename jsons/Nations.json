@@ -173,8 +173,8 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [118,170,220],
-		"uniqueName": "Organisation des Nations Commerçantes",
-	        "uniques": ["[+1 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation"],
+		"uniqueName": "Grand Canal",
+	        "uniques": ["[+1 Gold] from each Trade Route", "[+1] Movement <for [Water] units>", "[-25]% maintenance costs <for [Water] units>"],
 		"cities": ["Agartha", "Azur", "Ankévran", "Majulia", "Lankasara", "Nanakarni", "Medhannala", "Panomyong", "Khumai", "Vijaya", "Semapani", "Wipulasin", "Siriwadena", "Ninrati", "Jagath", "Pantaseeha", "Amrasani", "Vidisha", "Kalihar", "Danijpur", "Bankura", "Monywan", "Pyapon", "Pannaya", "Ko Laqyia", "Prakyan", "Narathiwani", "Sungai", "Kuanthan", "Thanjavur", "Ramanrawan", "Tirunelveli", "Madikeri", "Murshani", "Satara", "Palwal", "Shandol", "Nainpur", "Baihar", "Mungeli", "Mahasanund", "Dhamtari", "Lakshmipur", "Brahmanjapar", "Anwara", "Kyugangon", "Minbyin", "Sansaran", "Susipitayong", "Katchakan", "Phya Natini", "Prastavani", "Tangwoni", "Seesrali", "Nethamana", "Koi Lanyonh", "Kamsiwiluk", "Palipanin", "Sitakunda", "Rajbiran"]
 	},
 ]
