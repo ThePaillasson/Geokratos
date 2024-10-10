@@ -141,4 +141,40 @@
 	        "uniques": ["[+50]% Golden Age length","[+1 Happiness] from every [City]"],
 		"cities": ["Pembertøn", "Port-Sainte-Anne", "Kæviksborg", "Nørdvisk", "Lübeck", "Ingebørg", "Port-Skælländer", "Øst-Fårö", "Käskinen", "Fort-Saint-Augustin", "Blaaviken", "Sodden", "Dunwall", "Brügge", "Riverdell", "Östersund", "Nærøyfjord", "Port-Lexeter", "Velen", "Moose Creek", "Northbrooke", "Pendletøn", "Port-Trømso", "Harrenhall", "New-Aberdeen", "Port-Häven", "San Junipero", "Oxenfurt", "Duchesnay", "Louisbourg", "Baie Sainte Ursule", "Baie Sainte Catherine", "Val-Aux-Cerfs", "Hauteroche", "Le Bouvreuil", "Longue-Rive", "Palantir", "Les Sorinières", "Grande-Pointe", "Anse-du-Loup", "Saint-Roch-La-Forêt", "Sainte-Odile", "Wyzima", "Ålesund", "New-Walden", "Thinðavellir", "Nivellen", "Reyðarfjörður", "Mørvik", "Port-Skælländer", "Svalbarð", "Ingebørg", "Húsavík", "Kirkwall", "Uhatshimatakahp", "Wendaké", "Skjàlfa", "Ard Skellig", "Ard Carraigh", "Ard Elven", "Sørvaranger", "Karlsøyvær"]
 	},
+
+	{
+		"name": "Jashuria",
+		"leaderName": "Premier Ministre Nantipat Sisrati",
+		"adjective": ["Jashurien"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "La Troisième République du Jashuria – ou Jashuria – est une république parlementaire située au sud-est du Nazum. Aussi nommée République des Deux Océans, le pays est aisément identifiable par l’immense canal fluvial qui traverse le pays du nord au sud, permettant une navigation aisée entre les deux océans bordant le Nazum. Le Jashuria est une démocratie représentative libérale, mercantile et laïque, dont de nombreuses institutions sont les héritières des traditions bouddhistes à l’œuvre dans le pays, ce qui rend parfois la lecture de la politique jashurienne très cryptique.",
+		"startIntroPart2": "Les Jashuriens vivent sur un territoire difficilement exploitable, à cause des jungles luxuriantes qui poussent dans le pays et ont donc développé les techniques leur permettant de créer des infrastructures solides leur permettant d’optimiser chaque mètre carré de leur territoire. C’est un pays qui cherche avant tout à être reconnu sur la scène internationale comme la principale force politique et économique du Nazum et s’intéresse aux autres continents uniquement pour y développer des enclaves via sa diaspora et ses entreprises de travaux publics. Le Jashuria fait parti de l'Organisation des Nations Commerçantes en tant que membre fondateur. Il tient au sein de cette organisation une position de modéré.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Le Jashuria souhaite la bienvenue à toutes les délégations et à tous les diplomates. Les diplomates sont libres de solliciter les services du Hall des Ambassadeurs à toute heure du jour et de la nuit.",
+		
+		"neutralHello": "Estimés représentants",
+		"neutralLetsHearIt": ["Estimés représentants"],
+		"neutralNo": ["Cordialement"],
+		"neutralYes": ["Il est vrai que nos deux pays, bien que très différents culturellement, partagent le même idéal de paix et que des échanges commerciaux équilibrés et diversifiés entre nos deux nations nous seraient à tous profitables."],
+
+		"hateHello": "Estimés représentants.",
+		"hateLetsHearIt": ["Estimés représentants."],
+		"hateNo": ["Cordialement"],
+		"hateYes": ["Il est vrai que nos deux pays, bien que très différents culturellement, partagent le même idéal de paix et que des échanges commerciaux équilibrés et diversifiés entre nos deux nations nous seraient à tous profitables."],
+		
+		"afterPeace": "Il est vrai que nos deux pays, bien que très différents culturellement, partagent le même idéal de paix et que des échanges commerciaux équilibrés et diversifiés entre nos deux nations nous seraient à tous profitables.",
+		"tradeRequest": "Estimés représentants.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [118,170,220],
+		"uniqueName": "Organisation des Nations Commerçantes",
+	        "uniques": ["[+1 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation"],
+		"cities": ["Agartha", "Azur", "Ankévran", "Majulia", "Lankasara", "Nanakarni", "Medhannala", "Panomyong", "Khumai", "Vijaya", "Semapani", "Wipulasin", "Siriwadena", "Ninrati", "Jagath", "Pantaseeha", "Amrasani", "Vidisha", "Kalihar", "Danijpur", "Bankura", "Monywan", "Pyapon", "Pannaya", "Ko Laqyia", "Prakyan", "Narathiwani", "Sungai", "Kuanthan", "Thanjavur", "Ramanrawan", "Tirunelveli", "Madikeri", "Murshani", "Satara", "Palwal", "Shandol", "Nainpur", "Baihar", "Mungeli", "Mahasanund", "Dhamtari", "Lakshmipur", "Brahmanjapar", "Anwara", "Kyugangon", "Minbyin", "Sansaran", "Susipitayong", "Katchakan", "Phya Natini", "Prastavani", "Tangwoni", "Seesrali", "Nethamana", "Koi Lanyonh", "Kamsiwiluk", "Palipanin", "Sitakunda", "Rajbiran"]
+	},
 ]
