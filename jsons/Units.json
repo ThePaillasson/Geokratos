@@ -2,6 +2,8 @@
 	{
 		"name": "Brigada Aerotransportada de Asalto",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Alguarena",
+		"replaces": "Paratrooper",
 		"movement": 2,
 		"strength": 75,
 		"cost": 390,
@@ -11,8 +13,10 @@
 	},
 
 	{
-		"name": "Pirate Pharois",
+		"name": "Équipage Pirate",
 		"unitType": "Melee Water",
+		"uniqueTo": "Pharois",
+		"replaces": "Destroyer",
 		"movement": 8,
 		"strength": 40,
 		"interceptRange": 2,
@@ -26,6 +30,8 @@
 	{
 		"name": "Brigade Kah-tanaise",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Grand Kah",
+		"replaces": "Infantry",
 		"movement": 2,
 		"strength": 75,
 		"cost": 380,
@@ -38,6 +44,8 @@
 	{
 		"name": "Milice Coloniale",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Lofoten",
+		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 16,
 		"cost": 100,
