@@ -10,8 +10,9 @@
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
-		"civilopediaText": [{"text": "'Liberté dans le ciel, victoire sur la terre' est la devise des troupes des brigades d'assaut aéroportées."}
+		"civilopediaText": [{"text": "'Liberté dans le ciel, victoire sur la terre' est la devise des troupes des brigades d'assaut aéroportées."}]
 	},
+	
 	{
 		"name": "Équipage Pirate",
 		"unitType": "Melee Water",
@@ -25,8 +26,9 @@
 		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
 			"Withdraws before melee combat <with [80]% chance>", "[+100]% Strength <vs [Submarine] units>"],
 		"attackSound": "shipguns",
-		"civilopediaText": [{"text": "Parce qu'elle est fondamentalement marginale, la piraterie accueille tous les laissés pour compte du monde. Les oppressés, les persécutés, ceux qui n'ont d'autre choix que de prendre la mer. Elle est une bouée de sauvetage et une opportunité de revanche sur l'existence."}
+		"civilopediaText": [{"text": "Parce qu'elle est fondamentalement marginale, la piraterie accueille tous les laissés pour compte du monde. Les oppressés, les persécutés, ceux qui n'ont d'autre choix que de prendre la mer. Elle est une bouée de sauvetage et une opportunité de revanche sur l'existence."}]
 	},
+	
 	{
 		"name": "Brigade Internationale",
 		"unitType": "Gunpowder",
@@ -39,8 +41,9 @@
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot",
-		"civilopediaText": [{"text": "Il y a, au Grand Kah, de nombreuses brigades internationales suffisamment influentes pour jouir d'une indépendance opérationnelle. Celles-là peuvent être contactés par des moyens officiels comme officieux, ou en groupe via l'Office de Communication des Brigades Internationales."}
+		"civilopediaText": [{"text": "Il y a, au Grand Kah, de nombreuses brigades internationales suffisamment influentes pour jouir d'une indépendance opérationnelle. Celles-là peuvent être contactés par des moyens officiels comme officieux, ou en groupe via l'Office de Communication des Brigades Internationales."}]
 	},
+	
 	{
 		"name": "Milice Coloniale",
 		"unitType": "Gunpowder",
