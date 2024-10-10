@@ -32,7 +32,7 @@
 		"innerColor": [255,204,0],
 		"uniqueName": "Organisation des Nations Commerçantes",
 	        "uniques": ["[+1 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation"],
-		"cities": ["Aserjuco", "Pomosejo", "Jacalbulco", "Chesterboro", "Santialche", "Cо́rteixo", "Atimalco", "Salvando"]
+		"cities": ["Aserjuco", "Pomosejo", "Jacalbulco", "Chesterboro", "Atimalco", "Santialche", "Cо́rteixo", "Salvando"]
 	},
 
 	{
@@ -139,6 +139,6 @@
 		"innerColor": [243,41,38],
 		"uniqueName": "Progressisme",
 	        "uniques": ["[+50]% Golden Age length","[+1 Happiness] from every [City]"],
-		"cities": ["Pembertøn", "Kæviksbørg", "Port-Sainte-Anne", "Lübeck", "Ingebørg", "Nørdsvik", "Port-Skælländer", "Øst-Fårö", "Käskinen", "Fort-Saint-Augustin"]
+		"cities": ["Pembertøn", "Port-Sainte-Anne", "Kæviksborg", "Nørdvisk", "Lübeck", "Ingebørg", "Port-Skælländer", "Øst-Fårö", "Käskinen", "Fort-Saint-Augustin", "Blaaviken", "Sodden", "Dunwall", "Brügge", "Riverdell", "Östersund", "Nærøyfjord", "Port-Lexeter", "Velen", "Moose Creek", "Northbrooke", "Pendletøn", "Port-Trømso", "Harrenhall", "New-Aberdeen", "Port-Häven", "San Junipero", "Oxenfurt", "Duchesnay", "Louisbourg", "Baie Sainte Ursule", "Baie Sainte Catherine", "Val-Aux-Cerfs", "Hauteroche", "Le Bouvreuil", "Longue-Rive", "Palantir", "Les Sorinières", "Grande-Pointe", "Anse-du-Loup", "Saint-Roch-La-Forêt", "Sainte-Odile", "Wyzima", "Ålesund", "New-Walden", "Thinðavellir", "Nivellen", "Reyðarfjörður", "Mørvik", "Port-Skælländer", "Svalbarð", "Ingebørg", "Húsavík", "Kirkwall", "Uhatshimatakahp", "Wendaké", "Skjàlfa", "Ard Skellig", "Ard Carraigh", "Ard Elven", "Sørvaranger", "Karlsøyvær",]
 	},
 ]
