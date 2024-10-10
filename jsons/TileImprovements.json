@@ -1,0 +1,19 @@
+[
+
+	{
+		"name": "Rizière en terrasse",
+    "uniqueTo": "Jashuria",
+		"replaces": "Farm",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "F"
+    "civilopediaText": [{"text": "Les rizières en terrasses sont communes dans les campagnes jashuriennes, et notamment dans la région des lacs. Mais les rizières en terrasse de Majulia constituent un élément particulier au paysage jashurien pour ses formes emblématiques et l’attention qu’elles ont reçu de la communauté internationale ces dernières années, devenant un lieu hautement touristique et une pièce appréciée du paysage nazumi."}]
+	},
+
+]
