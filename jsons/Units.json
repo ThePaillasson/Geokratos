@@ -9,7 +9,8 @@
 		"cost": 390,
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [{"text": "'Liberté dans le ciel, victoire sur la terre' est la devise des troupes des brigades d'assaut aéroportées."}
 	},
 
 	{
@@ -24,11 +25,12 @@
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
 			"Withdraws before melee combat <with [80]% chance>", "[+100]% Strength <vs [Submarine] units>"],
-		"attackSound": "shipguns"
+		"attackSound": "shipguns",
+		"civilopediaText": [{"text": "Parce qu'elle est fondamentalement marginale, la piraterie accueille tous les laissés pour compte du monde. Les oppressés, les persécutés, ceux qui n'ont d'autre choix que de prendre la mer. Elle est une bouée de sauvetage et une opportunité de revanche sur l'existence."}
 	},
 
 	{
-		"name": "Brigade Kah-tanaise",
+		"name": "Brigade Internationale",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Grand Kah",
 		"replaces": "Infantry",
@@ -38,7 +40,8 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
-		"attackSound": "shot"
+		"attackSound": "shot",
+		"civilopediaText": [{"text": "Il y a, au Grand Kah, de nombreuses brigades internationales suffisamment influentes pour jouir d'une indépendance opérationnelle. Celles-là peuvent être contactés par des moyens officiels comme officieux, ou en groupe via l'Office de Communication des Brigades Internationales."}
 	},
 	
 	{
