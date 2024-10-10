@@ -1,5 +1,15 @@
 [
         {
+		"name": "Stade de Football",
+		"replaces": "Stadium",
+		"uniqueTo": "Alguarena",
+		"happiness": 6,
+		"requiredBuilding": "Theatre",
+		"maintenance": 2,
+		"requiredTech": "Refrigeration"
+	},
+	
+	{
 		"name": "Port Libre",
 		"replaces": "Seaport",
 		"uniqueTo": "Pharois",
