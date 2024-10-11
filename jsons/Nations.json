@@ -358,4 +358,40 @@
 		"cities": ["Norja", "Ny-Norja", "Halvɵ", "Järvi", "Kàlfafell", "Akrak", "Førdeild", "Haapismli", "Vardö", "Fästveg"]
 	},
 
+        {
+		"name": "Burujoa",
+		"leaderName": "Son Altesse Impériale Tadashi IV",
+		"adjective": ["Burujois"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Confucianism",
+		
+		"startIntroPart1": "Vieille république marchande, Tanska est aujourd'hui un pays fédéral densément peuplé en dépit de sa taille à l'agriculture impressionnante et diversifiée. Tourné vers la mer, la petite cité maritime de Tanska aux multiples canaux et marais asséchés s'est étendue à parti de la période médiévale grâce au commerce des denrées du continent en profitant de sa position géographique avantageuse.",
+		"startIntroPart2": "Une ouverture qui permet de compenser l'absence quantitatives de ressources importantes à l'époque comme le fer ou les forêts coupées pour les navires.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Votre Excellence, je me permets de vous contacter en tant que représentante de mon frère, l’empereur tadashi IV, mais également de l’empire Burujoa tout entier.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Il est évident que nos relations pourraient être bien meilleures si nous réglons enfin ce litige frontalier vieux de plusieurs centaines d'années.",
+		"tradeRequest": "Votre Excellence, je me permets de vous contacter en tant que représentante de mon frère, l’empereur tadashi IV, mais également de l’empire Burujoa tout entier.",
+
+		"outerColor": [182,241,149],
+		"innerColor": [1,22,253],
+		"uniqueName": "Absolutisme",
+	        "uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"cities": ["Karaimu", "BongDAng", "Xine-Shoudu", "Jin City", "Burugrad", "Azura", "Indiga", "Negui", "Vilmokoraïd", "Kūlanakauhale"]
+	},
+
 ]
