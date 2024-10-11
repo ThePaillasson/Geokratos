@@ -74,4 +74,21 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
+
+	{
+		"name": "Chloé CB-8 Cyclone",
+		"unitType": "Bomber",
+		"replaces": "Bomber",
+		"uniqueTo": "Sylva",
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 10,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"uniques": ["[50]% chance to intercept air attacks"],
+		"upgradesTo": "Stealth Bomber",
+		"attackSound": "bombing"
+	},
 ]
