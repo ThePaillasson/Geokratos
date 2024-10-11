@@ -57,5 +57,21 @@
 		"obsoleteTech": "Rifling",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "shot"
-	}
+	},
+
+	{
+		"name": "Chasseur de Strombola",
+		"unitType": "Mounted",
+		"uniqueTo": "Velsna",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 15,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 ]
