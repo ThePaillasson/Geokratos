@@ -91,4 +91,17 @@
 		"upgradesTo": "Stealth Bomber",
 		"attackSound": "bombing"
 	},
+
+	{
+		"name": "46e Brigade Motorisée",
+		"unitType": "Gunpowder",
+		"replaces": "Mechanized Infantry",
+		"uniqueTo": "Tanska",
+		"movement": 4,
+		"strength": 90,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
