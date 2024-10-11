@@ -104,4 +104,19 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+
+	{
+		"name": "Infanterie mon",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Maronhi",
+		"movement": 2,
+		"strength": 40,
+		"cost": 260,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"],
+		"attackSound": "shot"
+	},
 ]
