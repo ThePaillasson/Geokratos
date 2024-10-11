@@ -362,8 +362,8 @@
 		"name": "Burujoa",
 		"leaderName": "Son Altesse Impériale Tadashi IV",
 		"adjective": ["Burujois"],
-		"startBias": ["Coast", "Hill"],
-		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Confucianism",
 		
 		"startIntroPart1": "Vieille république marchande, Tanska est aujourd'hui un pays fédéral densément peuplé en dépit de sa taille à l'agriculture impressionnante et diversifiée. Tourné vers la mer, la petite cité maritime de Tanska aux multiples canaux et marais asséchés s'est étendue à parti de la période médiévale grâce au commerce des denrées du continent en profitant de sa position géographique avantageuse.",
@@ -392,6 +392,42 @@
 		"uniqueName": "Absolutisme",
 	        "uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
 		"cities": ["Karaimu", "BongDAng", "Xine-Shoudu", "Jin City", "Burugrad", "Azura", "Indiga", "Negui", "Vilmokoraïd", "Kūlanakauhale"]
+	},
+
+           {
+		"name": "Maronhi",
+		"leaderName": "Shōgun Awara Kouyouri",
+		"adjective": ["Maronhien"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+	        "favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "La Maronhi est une terre où la passion est souvent présente. Après une réputation de terre d'aventures où prédominent les éléments exotiques inspirés de la faune, de la forêt ou du bagne, la Maronhi aspire à un autre jugement et une évaluation plus réaliste de ses atouts.",
+		"startIntroPart2": "Cette nation, qui a longtemps été le creuset des folles légendes, est avant tout désireuse de se dégager des clichés et doit assumer une crise de croissance et de maturité. Crise de croissance à être désormais reconnue dans le monde entier alors qu'elle est encore trop peu et trop mal développée. Crise de croissance pour les Maronhiens qui se battent pour un développement économique à leur échelle. Crise de maturité pour une classe politique frondeuse, souveraine, farouchement nationaliste et spiritualiste.",
+		
+		"declaringWar": "Cultiver la nostalgie du passé est une erreur. Mais ceux qui n'ont de considération que pour l'instant présent et affectent de détester le passé font figure de gens bien superficiels.",
+		"attacked": "Ne cherchez pas à suivre les pas des hommes qui vous ont précédés. Cherchez ce qu’ils cherchaient.",
+		"defeated": "L'homme content de son sort ne connaît pas la ruine.",
+		"introduction": "Votre Excellence, je me permets de vous contacter en tant que représentante de mon frère, l’empereur tadashi IV, mais également de l’empire Burujoa tout entier.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Se connaître soi-même, c'est s'oublier. S'oublier soi-même, c'est s'ouvrir à toutes choses.",
+		"tradeRequest": "Dans le 'Vide' il y a le bien et non le mal. L'intelligence est 'être'. Les principes sont 'être'. Les voies sont 'être'. Mais l'esprit est 'Vide'.",
+
+		"outerColor": [251,220,8],
+		"innerColor": [161,0,0],
+		"uniqueName": "Unité familliale",
+	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>", "[-50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Siwa", "Lawao-Heiyan", "Fujiao", "Yeonju", "Uminomon", "Kyugawa", "Ukabumachi", "Iwako", "Kayawa", "kouhou", "Cuetlachquiauhco"]
 	},
 
 ]
