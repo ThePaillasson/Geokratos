@@ -322,4 +322,40 @@
 		"cities": ["Bourg des Mahoganys", "Baobab Ville", "Bourg Rougris", "Yve-Fleurie", "Chaudronie", "Oméride", "Isette sur Mer", "Azurade", "Plateauciel", "Landivar", "Dénétrius"]
 	},
 
+        {
+		"name": "Tanska",
+		"leaderName": "Harald Frogsɵn",
+		"adjective": ["Tanskien"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Vieille république marchande, Tanska est aujourd'hui un pays fédéral densément peuplé en dépit de sa taille à l'agriculture impressionnante et diversifiée. Tourné vers la mer, la petite cité maritime de Tanska aux multiples canaux et marais asséchés s'est étendue à parti de la période médiévale grâce au commerce des denrées du continent en profitant de sa position géographique avantageuse.",
+		"startIntroPart2": "Une ouverture qui permet de compenser l'absence quantitatives de ressources importantes à l'époque comme le fer ou les forêts coupées pour les navires.",
+		
+		"declaringWar": "Tous les hommes naissent et demeurent égaux en droit. Si ils ne les respectent pas, c'est à la justice de se charger d'appliquer la loi et à l'Etat de chercher à corriger le tir.",
+		"attacked": "En espérant que la raison et la civilité l'emporte sur l'absurdité et la barbarie.",
+		"defeated": "En espérant que la raison et la civilité l'emporte sur l'absurdité et la barbarie.",
+		"introduction": "Dans le cadre de notre établissement de relations normalisées avec un certain nombre d'Etats par delà les continents de ce monde, c'est avec plaisir que nous avons reçus votre lettre.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Nous ne sommes pas amis, soyez rassurés nous sommes en accord la dessus. Et nous ne le seront pas de si tôt."],
+		"hateYes": ["En espérant que la raison et la civilité l'emporte sur l'absurdité et la barbarie."],
+		
+		"afterPeace": "Nous ne sommes pas amis, soyez rassurés nous sommes en accord la dessus. Et nous ne le seront pas de si tôt.",
+		"tradeRequest": "En espérant que la raison et la civilité l'emporte sur l'absurdité et la barbarie.",
+
+		"outerColor": [0,32,91],
+		"innerColor": [141,69,28],
+		"uniqueName": "Administration",
+	        "uniques": ["[-100]% unhappiness from the number of cities", "[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Norja", "Ny-Norja", "Halvɵ", "Järvi", "Kàlfafell", "Akrak", "Førdeild", "Haapismli", "Vardö", "Fästveg"]
+	},
+
 ]
