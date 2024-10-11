@@ -250,4 +250,40 @@
 		"cities": ["Fortuna", "Lykaron", "Rio de Canossa", "Rivoli", "Marisma", "Miraglia", "Leandra", "Santa Leone"]
 	},
 
+        {
+		"name": "Velsna",
+		"leaderName": "Patrice Valeria Visconti",
+		"adjective": ["Velsnien"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Située au cœur du continent d’Eurysie, Velsna est une cité-Etat fondée au VIIIème siècle, selon la tradition historiographique par des commerçants provenant du sud de l'Eurysie installés dans une lagune qui deviendra le berceau de Velsna, ce dans le but d’exercer un droit de péage sur les navires transitant dans la région.",
+		"startIntroPart2": "La provenance exacte de ces colons est incertaine, mais la langue velsnienne, malgré des apports auccent et zélandais, est relativement proche des régions de Fortuna. Encore aujourd'hui, la quasi-totalité de l'élite patricienne de Velsna trouve ses origines dans cette vague migratoire, le reste de la population pour la plupart indigène ayant gardé dans leurs patronymes des caractéristiques zélandaises ou auccent.",
+		
+		"declaringWar": "...",
+		"attacked": "L'eau et les navires sont les meilleurs des remparts.",
+		"defeated": "Il faut dissimuler sa sagesse, et prétendre n'être que des lourdaud, de façon à ne paraître supérieurs que grâce à nos qualités de négociateur... Voici comment vous pouvez vous convaincre que les velsniens sont les mieux formés à la philosophie comme à la rhétorique : si vous parlez à n'importe quel velsnien ordinaire, il peut sembler stupide, mais à la fin, comme un archer habile, il vous décochera quelque brève remarque qui vous prouvera que vous n'êtes qu'un enfant.",
+		"introduction": "Étrangers, bienvenue aux Bureaux du Grand commerce et des étrangers de Velsna. Ce bâtiment est magnifique n'est-ce pas ? C'est ici que l'on fabriquait les navires partant attaquer la Zélandia à une autre époque. Maintenant c'est ici que siège le Maître du Grand commerce et des étrangers, c'est à lui qu'il faudra vous adresser pour toute demande d'ambassade dans notre cité. C'est également lui qui prendra part à toute réunion diplomatique à l'étranger impliquant Velsna, du moins c'est lui qui délègue sa présence aux autres membres du Conseil Communal. Ce que vous voulez dire à notre République, il faut le dire à lui en premier lieu. Julia Cavalli, c'est son nom. Enfin, c'est lui que vous verrez si jamais...une guerre devait être déclarée. N'hésitez donc pas à venir ici pour vous exprimer. J'espère que vous trouverez ce que vous cherchez à Velsna.",
+		
+		"neutralHello": "Étranger, comme tu peux le voir notre cité est grande et belle.",
+		"neutralLetsHearIt": ["Étranger, tu es toujours là ?"],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Tâchez de rester courtois, étranger. Son excellence Matteo DiGrassi est un homme de discipline qui ne tolère que peu les écarts de conduite. Veuillez vous adresser à lui en des termes purement diplomatiques.",
+		"hateLetsHearIt": ["Étranger, tu es toujours là ?"],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Le Triumvirat, le Sénat et le Conseil Communal de Velsna te salue.",
+		"tradeRequest": "Étranger, j'espère que tu es aussi ravi que moi de pouvoir commencer cette visite thématique.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [195,12,38],
+		"uniqueName": "Sénat des 1000",
+	        "uniques": ["[-50]% City-State Influence degradation", "When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [33]% chance>", "Receive triple Gold from Barbarian encampments and pillaging Cities"],
+		"cities": ["Velsna", "Umbra", "Vatluna", "Cerveteri", "Nowa-Velsna", "Saliera", "Strombola", "Velathri", "Tercera", "Tarquina", "Velcal"]
+	},
+
 ]
