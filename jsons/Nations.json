@@ -428,6 +428,6 @@
 		"uniqueName": "Unité familliale",
 	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>", "[-50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Siwa", "Lawao-Heiyan", "Fujiao", "Yeonju", "Uminomon", "Kyugawa", "Ukabumachi", "Iwako", "Kayawa", "kouhou", "Cuetlachquiauhco"]
-	},
+	}
 
 ]
