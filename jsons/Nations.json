@@ -496,7 +496,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,50],
 		"uniqueName": "Mordor",
-	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{Mine}] tiles>"]"],
+	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{Mine}] tiles>]"],
 		"cities": ["Estham", "Laagefort", "Warstead", "Kankela", "Lanéo", "Grovern","Merigales", "Antistead", "Fort-Gelé", "Sutford", "Millster", "Amessor", "Beaverford", "Bortoise", "Hasstel", "Vilsburg", "Donebridge", "Saulles", "Alberside", "Stratpool", "Brightbury", "Rowbury", "Trogers", "Milstead", "Stalynson", "Gendebois", "Vieubourg", "Terre-Nouvelle", " Bois-aux-cerfs", "Millheller", "Woodsor", "Chelriden", "Ville-Morauze", "Champonce", "Elinor", "Whitehead", "Strendak", "Seeale", "Purguoise", "Val-de-Choir", "Don-sur-Rive", "Belle-écaille", "Malveau", "Triack-sur-lac", "Belle-cavalière", "Colon-les-Deuxtours", "Santre-sur-Ïote", "Cawle", "Trante", "Hault-les-trapeurs", "Graham"]
 	},
 
