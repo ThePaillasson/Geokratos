@@ -439,6 +439,7 @@
 	        "favoredReligion": "Islam",
 		
 		"startIntroPart1": "Le peuple banairais a longtemps été un peuple nomade se déplaçant à cheval ou dromadaire, selon les aires géographiques qu'il occupait. Arpentant ses terres s'étendant sur toute la moitié nord du continent au fil des saisons et migrations des animaux, il souffrit beaucoup des sociétés sédentarisées qui s'installèrent peu à peu chez lui. La concurrence entre les Banairais et ces jeunes civilisations dura cependant très peu de temps, et le peuple banairais suivit le mouvement général : peu à peu les groupes (on ne peut pas parler de clans ou tribus, mots impliquant un cloisonnement trop important entre ceux-ci) se rassemblèrent pour organiser une riposte efficace contre les perturbateurs. Ce fut le début de la sedentarisation organisée des Banairais, optimisée pour défendre au mieux leurs ressources.",
+		
 		"declaringWar": "...",
 		"attacked": "...",
 		"defeated": "...",
@@ -473,6 +474,7 @@
 	        "favoredReligion": "Christianity",
 		
 		"startIntroPart1": "L'Empire se dresse comme une nouvelle nation avec les prochains changement au niveau du pouvoir. Notre terre est riche en histoires, mais l'Empire est une jeune nation qui se stabilise suite aux grands remous politiques des dernières décennies.",
+		
 		"declaringWar": "...",
 		"attacked": "...",
 		"defeated": "...",
@@ -496,6 +498,42 @@
 		"uniqueName": "Mordor",
 	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{Mine}] tiles>"]"],
 		"cities": ["Estham", "Laagefort", "Warstead", "Kankela", "Lanéo", "Grovern","Merigales", "Antistead", "Fort-Gelé", "Sutford", "Millster", "Amessor", "Beaverford", "Bortoise", "Hasstel", "Vilsburg", "Donebridge", "Saulles", "Alberside", "Stratpool", "Brightbury", "Rowbury", "Trogers", "Milstead", "Stalynson", "Gendebois", "Vieubourg", "Terre-Nouvelle", " Bois-aux-cerfs", "Millheller", "Woodsor", "Chelriden", "Ville-Morauze", "Champonce", "Elinor", "Whitehead", "Strendak", "Seeale", "Purguoise", "Val-de-Choir", "Don-sur-Rive", "Belle-écaille", "Malveau", "Triack-sur-lac", "Belle-cavalière", "Colon-les-Deuxtours", "Santre-sur-Ïote", "Cawle", "Trante", "Hault-les-trapeurs", "Graham"]
+	},
+
+	{
+		"name": "Manche Silice",
+		"leaderName": "Triumvirat",
+		"adjective": ["Siliquéen"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+	        "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Bienvenue en Manche Silice, une espace tampon où trois peuples ont appris à cohabiter jusqu'à former une nation. Il y a les Incarnados, d'ascendance celtibère et latine, un peuple autochtone façonné par son rapport intime à la nature. Il y a les Tchenkov, des slaves affranchis de leurs maîtres germaniques venus conquérir monts et bois. Il y a enfin les Landrins ou Léandrais, communauté d'exilés d'un thalasso-Etat déchu.",
+		"startIntroPart2": "Il résulte de cet assemblage baroque des bizarreries institutionnelles pour contenter tout le monde. On peut ainsi citer la présence de 3 chefs d'Etats, l'alternance de capitale deux fois par an, la pratique de quatre langues, d'une multitude de religions. Par miracle, ça fonctionne puisque la péninsule d'Ostremont (une autre façon de nous désigner) figure parmi les puissances intermédiaires de ce monde.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Pour se développer, autant de l’intérieur que sur la scène internationale, nous avons besoin d'alliés. Nous avons toujours tenu nos promesses, avons toujours étés fidèles à nos idéaux et à nos alliés, je pense que nous sommes dignes de confiance.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Nous sommes disposés à toute diplomatie, n'hésitez pas, nos portes vous sont toujours ouvertes !",
+		"tradeRequest": "Salutations.",
+
+		"outerColor": [50,62,149],
+		"innerColor": [186,0,25],
+		"uniqueName": "Bassin minier",
+	        "uniques": ["[+1 Production] from every [Production building]"],
+		"cities": ["Meulière", "Rio de l'Estuaire", "Aigues-Fauves", "La Source", "Podestavre", "Matka", "Costa Tramposa", "La Bastide-Mandréas", "Castelisière"]
 	},
 
 ]
