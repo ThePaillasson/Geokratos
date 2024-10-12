@@ -119,4 +119,19 @@
 		"uniques": ["[+20]% Strength <when fighting in [Jungle] tiles>"],
 		"attackSound": "shot"
 	},
+
+	{
+		"name": "Camelier",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo": "Banairah",
+		"movement": 4,
+		"strength": 40,
+		"cost": 260,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques": ["[+20]% Strength <when fighting in [Desert] tiles>"],
+		"attackSound": "shot"
+	},
 ]
