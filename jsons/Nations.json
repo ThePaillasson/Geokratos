@@ -394,7 +394,7 @@
 		"cities": ["Karaimu", "BongDAng", "Xine-Shoudu", "Jin City", "Burugrad", "Azura", "Indiga", "Negui", "Vilmokoraïd", "Kūlanakauhale"]
 	},
 
-           {
+        {
 		"name": "Maronhi",
 		"leaderName": "Shōgun Awara Kouyouri",
 		"adjective": ["Maronhien"],
@@ -408,7 +408,41 @@
 		"declaringWar": "Cultiver la nostalgie du passé est une erreur. Mais ceux qui n'ont de considération que pour l'instant présent et affectent de détester le passé font figure de gens bien superficiels.",
 		"attacked": "Ne cherchez pas à suivre les pas des hommes qui vous ont précédés. Cherchez ce qu’ils cherchaient.",
 		"defeated": "L'homme content de son sort ne connaît pas la ruine.",
-		"introduction": "Votre Excellence, je me permets de vous contacter en tant que représentante de mon frère, l’empereur tadashi IV, mais également de l’empire Burujoa tout entier.",
+		"introduction": "Nous vous remercions pour la sollicitude que votre glorieuse nation nous accorde et vous envoyons nos meilleurs vœux de prospérité.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Par ce communiqué, nous souhaitons vous faire part de l'approbation de l'Assemblée des Man et de la Gran Man quant à votre requête."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Par ce communiqué, nous souhaitons vous faire part de l'approbation de l'Assemblée des Man et de la Gran Man quant à votre requête."],
+		
+		"afterPeace": "Se connaître soi-même, c'est s'oublier. S'oublier soi-même, c'est s'ouvrir à toutes choses.",
+		"tradeRequest": "Dans le 'Vide' il y a le bien et non le mal. L'intelligence est 'être'. Les principes sont 'être'. Les voies sont 'être'. Mais l'esprit est 'Vide'.",
+
+		"outerColor": [251,220,8],
+		"innerColor": [161,0,0],
+		"uniqueName": "Unité familliale",
+	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>", "[-50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Siwa", "Lawao-Heiyan", "Fujiao", "Yeonju", "Uminomon", "Kyugawa", "Ukabumachi", "Iwako", "Kayawa", "kouhou", "Cuetlachquiauhco"]
+	},
+
+	{
+		"name": "Banairah",
+		"leaderName": "Khasser Saroud Al'Tenhè",
+		"adjective": ["Banairais"],
+		"startBias": ["Desert","Hill"],
+		"preferredVictoryType": "Cultural",
+	        "favoredReligion": "Islam",
+		
+		"startIntroPart1": "Le peuple banairais a longtemps été un peuple nomade se déplaçant à cheval ou dromadaire, selon les aires géographiques qu'il occupait. Arpentant ses terres s'étendant sur toute la moitié nord du continent au fil des saisons et migrations des animaux, il souffrit beaucoup des sociétés sédentarisées qui s'installèrent peu à peu chez lui. La concurrence entre les Banairais et ces jeunes civilisations dura cependant très peu de temps, et le peuple banairais suivit le mouvement général : peu à peu les groupes (on ne peut pas parler de clans ou tribus, mots impliquant un cloisonnement trop important entre ceux-ci) se rassemblèrent pour organiser une riposte efficace contre les perturbateurs. Ce fut le début de la sedentarisation organisée des Banairais, optimisée pour défendre au mieux leurs ressources.",
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Salutations.",
 		
 		"neutralHello": "Bonjour.",
 		"neutralLetsHearIt": ["Parle."],
@@ -420,14 +454,14 @@
 		"hateNo": ["Non."],
 		"hateYes": ["Oui."],
 		
-		"afterPeace": "Se connaître soi-même, c'est s'oublier. S'oublier soi-même, c'est s'ouvrir à toutes choses.",
-		"tradeRequest": "Dans le 'Vide' il y a le bien et non le mal. L'intelligence est 'être'. Les principes sont 'être'. Les voies sont 'être'. Mais l'esprit est 'Vide'.",
+		"afterPeace": "C'est avec joie que nous répondons positivement à votre demande.",
+		"tradeRequest": "Salutations.",
 
-		"outerColor": [251,220,8],
-		"innerColor": [161,0,0],
-		"uniqueName": "Unité familliale",
-	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>", "[-50]% Unhappiness from [Population] [in all cities]"],
-		"cities": ["Siwa", "Lawao-Heiyan", "Fujiao", "Yeonju", "Uminomon", "Kyugawa", "Ukabumachi", "Iwako", "Kayawa", "kouhou", "Cuetlachquiauhco"]
-	}
+		"outerColor": [195,21,20],
+		"innerColor": [252,251,249],
+		"uniqueName": "Démocratie dirècte",
+	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Desert}] tiles>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["Abunaj","Al Kara", "Balhaya", "Zaki al-Pour", "Sayat", "Sehras", "Zagroud"]
+	},
 
 ]
