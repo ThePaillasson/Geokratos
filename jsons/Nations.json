@@ -459,9 +459,43 @@
 
 		"outerColor": [195,21,20],
 		"innerColor": [252,251,249],
-		"uniqueName": "Démocratie dirècte",
+		"uniqueName": "Démocratie directe",
 	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Desert}] tiles>", "[-50]% Gold cost of acquiring tiles [in all cities]"],
 		"cities": ["Abunaj","Al Kara", "Balhaya", "Zaki al-Pour", "Sayat", "Sehras", "Zagroud"]
+	},
+
+	{
+		"name": "Empire du Nord",
+		"leaderName": "Empereur Maximilien II",
+		"adjective": ["Nordiste"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+	        "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "L'Empire se dresse comme une nouvelle nation avec les prochains changement au niveau du pouvoir. Notre terre est riche en histoires, mais l'Empire est une jeune nation qui se stabilise suite aux grands remous politiques des dernières décennies.",
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Pour se développer, autant de l’intérieur que sur la scène internationale, nous avons besoin d'alliés. Nous avons toujours tenu nos promesses, avons toujours étés fidèles à nos idéaux et à nos alliés, je pense que nous sommes dignes de confiance.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Nous sommes disposés à toute diplomatie, n'hésitez pas, nos portes vous sont toujours ouvertes !",
+		"tradeRequest": "Salutations.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,50],
+		"uniqueName": "Mordor",
+	        "uniques": ["[+1 Gold] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>"]"],
+		"cities": ["Estham", "Laagefort", "Warstead", "Kankela", "Lanéo", "Grovern","Merigales", "Antistead", "Fort-Gelé", "Sutford", "Millster", "Amessor", "Beaverford", "Bortoise", "Hasstel", "Vilsburg", "Donebridge", "Saulles", "Alberside", "Stratpool", "Brightbury", "Rowbury", "Trogers", "Milstead", "Stalynson", "Gendebois", "Vieubourg", "Terre-Nouvelle", " Bois-aux-cerfs", "Millheller", "Woodsor", "Chelriden", "Ville-Morauze", "Champonce", "Elinor", "Whitehead", "Strendak", "Seeale", "Purguoise", "Val-de-Choir", "Don-sur-Rive", "Belle-écaille", "Malveau", "Triack-sur-lac", "Belle-cavalière", "Colon-les-Deuxtours", "Santre-sur-Ïote", "Cawle", "Trante", "Hault-les-trapeurs", "Graham"]
 	},
 
 ]
