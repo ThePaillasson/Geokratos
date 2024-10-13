@@ -680,4 +680,38 @@
 		"cities": ["Héraclée", "Ménorophon", "Samarée", "Apameia", "Ischopolis", "Kíniakeia"]
 	},
 
+	{
+		"name": "Shuharri",
+		"leaderName": "Yuu aon Laonko",
+		"adjective": ["Shuharri"],
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "L'Union des terres australes de Shuharri est au départ un traité régulant les interactions entre différents peuples autochtones de Paltoterra du Sud. Il y en a plusieurs dizaines de cultures très différentes rien que sur cette terre (et elles auront leur importance), mais les quatre principales que je puisse vous citer sont (noter que les influences sont un résumé très grossier de ce que je souhaite représenter, les Shuharri ne sont clairement pas des transpositions de cultures réelles et agrègent des influences dans le but de construire une culture adaptée aux terres représentées.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Puisse la chaleur guider vos pas.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [15,5,5],
+		"innerColor": [255,12,12],
+		"uniqueName": "Institution diplomatique interethnique",
+	        "uniques": ["[-50]% unhappiness from the number of cities", "[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved}] tiles>"],
+		"cities": ["Okkaluin", "Hohhothai", "Tumgao", "Qikiqtaniitsoq", "Ilmarde"]
+	},
+
 ]
