@@ -608,4 +608,40 @@
 		"cities": ["Lyonnars", "Astrana", "Doline", "Galaisie", "Port-Lodin", "Minae", "Ruilice", "Klialine"]
 	},
 
+	{
+		"name": "Youslévie",
+		"leaderName": "Hemeraldo "Aldo" Vera",
+		"adjective": ["Youslève"],
+		"startBias": ["Grassland", "Hill"],
+		"preferredVictoryType": "Cultural",
+	        "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "La Youslévie est issue de l'union des royaumes de Yous ("les hommes du sud") et des Lèves ("les hommes du nord") en 1364, situé au centre des routes commerciales terrestres et maritimes le pays, c'est développé et est devenu une puissance médiévale importante recueillant de nombreuses immigrations de part et d'autres des autres pays de l'époque même si les deux ethnies principales restèrent les Yous et les Lèves. Au fur et à mesure que la Youslévie prospère un vent de démocratie souffle sur le peuple, c'est pourquoi en 1671 suite à un accord avec le monarque en place la Youslévie devient une monarchie constitutionnelle. Ce système va perdurer de manière pacifique pendant deux siècles et demi et va permettre à la Youslévie de rayonner sur le plan commercial, culturel, artistique, philosophique, mais aussi scientifique et attirer les émigrés de nombreux pays notamment les Basques qui comptent pour à peu près pour 8 millions de la population actuelle et constituent la minorité la plus représentée en Youslévie.",
+		"startIntroPart2": "Cependant, en 1903, une révolution républicaine va éclater menant à une guerre civile avec les pro-royalistes et les républicains, qui va se solder le 23 novembre de l'année suivante par la victoire des républicains et la disparition du souverain de l'époque créant le plus grand mystère de l'histoire de la Youslévie. Cet événement est plus connu sous le nom de "La Disparition". À partir de cette période, la Youslévie devient officiellement une République à tendance socialiste mais toujours tournée vers le commerce. C'est d'ailleurs cette tendance socialiste qui va mener au plus grand drame de l'histoire Youslève. En effet suite aux élections présidentielles remportées par un président de gauche puis à son assassinat et le coup d'État par l'armée le 09 octobre 1975, c'est le début d'une guerre civile opposant l'armée, les ultras-conservateurs et certains royalistes nostalgiques aux républicains aidés par l'extrême gauche et les indépendantistes Yous et Lèves souhaitant un référendum démocratique pouvant mener à une scission en deux États distincts.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "En premier lieu, je ne peux vous cacher que je suis extrêmement excité de vous parler.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Décidément, que de sujets de discussion avons nous là. Si j'ai pris un plaisir infini à vous répondre, mon temps ainsi que le papier à ma disposition ne sont pas des ressources illimitées.",
+
+		"outerColor": [255,23,23],
+		"innerColor": [166,166,166],
+		"uniqueName": "République Fédérative",
+	        "uniques": ["[+1 Happiness] from every [City]"],
+		"cities": ["Sedjan", "Breuillet", "Kronaï", "Baltos", "Bell Vill", "Lokeren", "Tryposeidonas", "Janusia", "Solaï", "Onibaïa", "Môt", "Saisies", "Luna", "La Vandera", "Frontalis"]
+	},
+
 ]
