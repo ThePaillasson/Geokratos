@@ -572,4 +572,40 @@
 		"cities": ["Icemlet", "Asefsaf", "Acilmum", "Ifilku", "Tifuzzel"]
 	},
 
+	{
+		"name": "Loduarie",
+		"leaderName": "Lorenzo Geraert-Wojtkowiak",
+		"adjective": ["Loduarien"],
+		"startBias": ["Grassland", "Hill"],
+		"preferredVictoryType": "Domination",
+	        "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "La Loduarie Communiste était autrefois la république de Loduarie depuis 789 ans (toutes les archives d'avant furent détruites). Tout se passa bien pendant 780 ans, mais une terrible épidémie survint et l'instabilité politique et citoyenne commença. Ce fut la période des années sombres, qui étaient prédestinées à durer pendant 14 ans. 1 million de personnes sont mortes pendant cette période. Heureusement, un homme nommé Manuel Maquaux fut élu président de la République de Loduarie. Il ramena la stabilité dans le pays. Mais certaines personnes ne furent pas de cet avis. Ainsi, le 15 juin 1999, la Loduarie et son président actuel ( Manuel Maquaux) fut victime d’un coup d’état fasciste mené par des grands généraux de l’armée loduarienne.",
+		"startIntroPart2": "Il s’ensuivit donc une révolution forte de 4 millions de loduariens. Après une longue période de combats (Guerre civile loduarienne de 1999-2002), la révolution, menée par Lorenzo Geraert-Wojtkowiak, jeune de 19 ans, s’ensuivit par la prise de contrôle de la Loduarie par les révolutionnaires. Lorenzo fut nommé à la tête du gouvernement et posa les bases du fonctionnement de la nouvelle démocratie communiste de Loduarie. Ainsi naquit la Loduarie communiste.",
+		
+		"declaringWar": "Agissez donc. Mais je ne garantirais pas la survie de votre régime à terme.",
+		"attacked": "Agissez donc. Mais je ne garantirais pas la survie de votre régime à terme.",
+		"defeated": "...",
+		"introduction": "Bonjour et bienvenue. Vous êtes sûrement ici pour entretenir des relations diplomatiques avec notre nation. Si c'est le cas, je vous prierai d'adresser vos lettres au secrétaire général de la Loduarie communiste, Geraert-Wojtkowiak Lorenzo, pour la simple et bonne raison que nous n'avons pas encore de ministre des affaires étrangères.",
+		
+		"neutralHello": "Camarade.",
+		"neutralLetsHearIt": ["Camarade."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Je ne perdrais pas mon temps avec vous.",
+		"hateLetsHearIt": ["Je ne perdrais pas mon temps avec vous."],
+		"hateNo": ["Réinsultez à nouveau notre organisation et nos choix, émettez des sanctions à notre encontre, ou même encore tentez quelque chose contre ceux que nous protégeons, et notre riposte sera sans prise de recul."],
+		"hateYes": ["Veuillez accepter l'expression de mes sentiments les plus distingués."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Camarade, c'est avec plaisir que je décide de vous envoyer cette missive diplomatique.",
+
+		"outerColor": [218,25,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Loduarisme",
+	        "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Lyonnars", "Astrana", "Doline", "Galaisie", "Port-Lodin", "Minae", "Ruilice", "Klialine"]
+	},
+
 ]
