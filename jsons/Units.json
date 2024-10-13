@@ -134,4 +134,19 @@
 		"uniques": ["[+20]% Strength <when fighting in [Desert] tiles>"],
 		"attackSound": "shot"
 	},
+
+	{
+		"name": "Missile Diplomatique",
+		"unitType": "Missile",
+		"replaces": "Guided Missile",
+		"uniqueTo": "Loduarie",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 12,
+		"cost": 150,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "missile"
+	},
 ]
