@@ -136,7 +136,7 @@
 	},
 
 	{
-		"name": "Missile Diplomatique",
+		"name": "Missile diplomatique",
 		"unitType": "Missile",
 		"replaces": "Guided Missile",
 		"uniqueTo": "Loduarie",
