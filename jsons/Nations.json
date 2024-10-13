@@ -644,4 +644,40 @@
 		"cities": ["Sedjan", "Breuillet", "Kronaï", "Baltos", "Bell Vill", "Lokeren", "Tryposeidonas", "Janusia", "Solaï", "Onibaïa", "Môt", "Saisies", "Luna", "La Vandera", "Frontalis"]
 	},
 
+	{
+		"name": "Cémétie",
+		"leaderName": "Son Altesse Dimitrios III Achanios",
+		"adjective": ["Cémétien"],
+		"startBias": ["Desert", "Coast"],
+		"preferredVictoryType": "Religious",
+	        "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "La monarchie est affaiblie par des décennies d’échecs princiers mais les institutions demeurent largement en faveur du maintien de la principauté. Le traditionnalisme ambiant pousse-même plutôt le monarque vers des rêves de grandeur par l’autorité, mais les enjeux restent trop nombreux dans un pays encore largement sous-développé, avec de grands écarts de niveau de vie (la côte et les axes fluviaux sont relativement modernisés mais l’arrière-pays demeure très pauvre). L’explosion démographique récent des grandes villes, à la suite des modernisations de la fin du vingtième siècle, pousse le pays vers le précipice de la surcroissance : un écueil auquel le gouvernement devra se confronter. Les mœurs chrétiennes traditionnelles se montrent farouchement hostiles à toute incursion gouvernementale dans la politique des naissances.",
+		"startIntroPart2": "Les mouvements politiques hiptiques dénoncent l’enrichissement des nomes (subdivisions administratives, régions) les plus au nord, au détriment des populations de l’arrière-pays. Les lengadociens soutiennent une plus grande autonomie pour le nome de Kíniakeia (Ginhac), seule nome où ils sont majoritaires. Les particularistes s’impatientent face aux autorités princières et des groupuscules anarchistes sont à l’origine d’actes violents indépendantistes.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Bonjour.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [13,94,175],
+		"innerColor": [255,255,255],
+		"uniqueName": "Berceau du Christ",
+	        "uniques": ["[+1 Faith] from every [City]", "[+1 Culture] from every [City]"],
+		"cities": ["Héraclée", "Ménorophon", "Samarée", "Apameia", "Ischopolis", "Kíniakeia"]
+	},
+
 ]
