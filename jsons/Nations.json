@@ -4,7 +4,7 @@
 		"leaderName": "Présidente Fédérale Mazeri Abrogara",
 		"adjective": ["Alguareno"],
 		"startBias": ["Coast", "Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "L’Alguarena est une fédération regroupant trois états insulaires de culture hispanophone et précolombienne. La naissance de cette fédération se lie à différents états fédérés ayant longtemps été en proie à la guerre durant l’âge coloniale (situé entre le XVIIe et le XIXe siècle). Durant cette ère, les principales dynasties blanches et latines régionales ont multiplié les affrontements pour dominer les archipels aux limites des deux empires. En s’emparant des îles, les deux camps espéraient pouvoir créer et entretenir l’une des principales routes commerciales internationales, participant à la jonction des deux hémisphères.",
@@ -40,7 +40,7 @@
 		"leaderName": "Ransu Rasanen",
 		"adjective": ["Pharois"],
 		"startBias": ["Coast", "Tundra"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		
 		"startIntroPart1": "La Libre Association des Propriétaires de Phares et de Filets d'Eurysie Septentrionale est, comme son nom l'indique, un conglomérat de propriétaires terriens et de capitaines de navires. Suite à une révolution prolétarienne ratée au sein de l'ancien Royaume d'Albi, la petite bourgeoisie a prospéré sur la Grande et est parvenue à assurer sa mainmise sur cette région en proie au chaos. Elle y règne depuis avec pour seul et unique objectif la préservation de ses intérêts privés et du respect de la propriété territoriale. Ainsi, le Syndicat des Poissonniers s'apparente plus à une Fédération de commerçants qu'à un véritable État Nation, ce qui ne l'empêche absolument pas de s'être dotée d'institutions fonctionnelles et de prétendre à une représentation digne de ce nom à l'internationale.",
@@ -76,7 +76,7 @@
 		"leaderName": "Comité de Volonté Publique",
 		"adjective": ["Kah-tanais"],
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Le Grand Kah est un ensemble de provinces coloniales et autochtones s'étant rebellées il y a de ça plusieurs siècles pour fonder une république libre et indépendante opposée à l’esclavagisme et prônant des notions de liberté, de vertu et de démocratie. Sa culture est un mélange de celle des colons latins, sino-japonais et des autochtones plus tribaux. Le zèle révolutionnaire ne se calma jamais vraiment en ça que plusieurs aventures autoritaires et monarchiques poussées d’abord par les classes bourgeoises ayant survécu à la première révolution puis par les partisans d'un leader militaire particulièrement populaire (Jin Sukaretto) furent à leur tour balayées par des insurrections, et que la liberté toute particulière laissée par le Kah à ses habitants attira quelques-uns des exilés politiques, judiciaires et des idéalistes les plus notables du globe au cours des siècles, sans parler des réfugiés en tout genre.",
 		"startIntroPart2": "Le Kah est, selon la conception officielle des leaders de la première révolution, une Roue. Un éternel recommencement qui progresse sur une même route, idée héritée des croyances ancestrales autochtones et mis en forme par des penseurs humanistes et objectivistes locaux.",
