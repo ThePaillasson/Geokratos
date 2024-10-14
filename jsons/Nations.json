@@ -714,4 +714,40 @@
 		"cities": ["Okkaluin", "Hohhothai", "Tumgao", "Qikiqtaniitsoq", "Ilmarde"]
 	},
 
+	{
+		"name": "Fujiwa",
+		"leaderName": "Premier Ministre Ishiada Shimura",
+		"adjective": ["Fujiwan"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Shinto",
+		
+		"startIntroPart1": "Le Fujiwa a longtemps été un pays menant une politique isolationniste stricte. Cette période, appelée l'ancien Fujiwa, était sous l'autorité de l'Empereur et de la famille impériale Kozuki installé sur l'archipel depuis les années 1100. Vers les années 1950, les siècles de travaux des érudits Fujiwans amène à une pensée démocratique au sein de la population. L'ère impériale s'affaiblit peu à peu pour laisser place à un système plus juste, égal et libre. Avec l'émergence des flux d'informations et d'un monde ouvert, l'Etat de Fujiwa s'adonne à se libéraliser en même temps que la démocratie. La politique isolationniste va s'effacer avec l'arrivée de la démocratie en 1955 et la promulgation de la nouvelle Constitution. L'actuel Empereur, Kozuki Oden, occupe désormais une place honorifique, étant défini comme le symbole de l'État et de l'unité du peuple fujiwans.",
+		"startIntroPart2": "Le pays tente alors de trouver une voix équilibrée à travers le monde et ouvre officiellement ses frontières et son marché en 1955. La vie politique et sociale du Fujiwa repose désormais sur des fractures assez visibles entre une part de la population chérissant la démocratie d'aujourd'hui et d'autres nostalgiques souhaitant restaurer les idéaux de la famille impériale et son pouvoir divin."
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Le Bureau du Premier Ministre, ainsi que le Ministère des Affaires Etrangères, tiennent tout d'abord à vous remercier pour l'intérêt que vous manifestez à la bonne forme de nos relations bilatérales.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [196,38,70],
+		"uniqueName": "Isolationnisme",
+	        "uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"cities": ["Sokshō", "Tomocho", "Toyama", "Kōshi", "Houren", "Asakura", "Miyako", "Moon"]
+	},
+
 ]
