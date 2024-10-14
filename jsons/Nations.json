@@ -785,4 +785,40 @@
 		"cities": ["Mont-Law", "Barthelemew", "Bluepont", "Villecorn", "Valmount", "Port Hafen"]
 	},
 
+	{
+		"name": "Miridian",
+		"leaderName": "Einsenkaiser",
+		"adjective": ["Miridien"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Scientific",
+		
+		"startIntroPart1": "Le 5 février 1623 des colons Primains et Ambarrois mener par les capitaine Hans von Hafenberg et Francois de Villar décidèrent de s'installer sur le sol aleucien. Ainsi une baie jugée propice à l'installation d'une ville fut choisit, cette ville fut appeler Elysium. La région était abitée par une tribu nommée les Karbe, les 2 capitaines décidèrent de cohabiter pacifiquement avec les indigènes. Au bout de 30 ans de cohabitation amicale les 2 capitaines qui dirigeaient le jeune pays moururent. Mais leurs fils ne voulaient plus partager le pouvoir entre les deux familles. Ils voulaient tous les deux régner seul. Ce qui devait arriver arriva. Ainsi le 16 mars 1653 les 2 hommes se déclarèrent la guerre. Le premier prit la tête du nord du pays, il s'appelait Karl von Hafenberg. Le second prit la tête du sud, son nom était Charles de Villar. La première bataille fut celle pour Elyseum le 25 mars 1653. Elle fut sanglante, ce jour la 16 000 hommes perdirent la vie. La bataille dura 3 jours, les troupes de von Hafenberg furent chassées de la ville. Il décida alors de s'installer Sturmburg, pendant ce temps de Villar lui s'installa à Elysium. Karl von Haffenberg dut trouver un moyen pour justifier cette défaite, il accusa alors les indigènes de s'être ranger aux cotés de de Villar. Il érigea alors les indigènes en ennemis numéro 1 et ses troupes mieux armées et nourries que les indigènes les massacrèrent. Les quelques survivant à cette purge se rallièrent alors à la cause de de Villar. Et la guerre dura et dura. Il y eut quelque bataille notoire comme en 1875 où les troupes de Otto von Hafenberg faillirent reprendre Elysium, 54 milles morts. L'an 2008 vit venir la fin de ce conflit fratricide. Les 2 royaumes détruits et ruinés voient arriver la menace d'une invasion extérieure(l'Angelya), les 2 rois décident alors de mettre leurs différents de cotés et de s'unir pour faire face. L'assaillant fut repousser et la guerre des frères comme on l'appelle aujourd'hui prit fin, après 355 années de combat."
+		"startIntroPart2": "Les 2 rois décidèrent de revenir à l'ancien régime où le pays était dirigé par 2 rois. Mais le peuple n'était pas de cette avis. Le 27 juin 2008 une centaine d'homme se réunirent dans une maison d'Elysium et élire un chef. Afin de représenter les 2 ethnies qui peuplaient le pays ils choisirent un Primain-Ambarois surnommé l'homme de fer pour son courage. En 40 jours les 2 rois furent défait, les pertes furent estimées à 32 000 milles morts. Ainsi le 6 aout 2008 fut proclamer la république de Miridian. Les deux rois furent juger de crime contre l'unité nationale, la liberté et condamnés à mort. Pendant 2 ans un gouvernement provisoire dirigea Miridian. Une constitution fut voter par le peuple. Et l'homme de fer fut élu kaiser(président), on l'appela alors Eisenkaiser, l'empereur de fer. Le 6 aout fut choisit comme date de fête nationale(date de la proclamation de la République), par ailleurs le 27 juin(début de la révolution)et le 5 février(installation des colons) sont aussi des jours fériés. Deux immenses mémoriaux ont d'ailleurs été construit, l'un en hommage aux victimes de la purge et l'autre aux morts militaires et civiles à la guerre des frères."
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Veuillez agréer mes plus sincères salutations.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Moi Hans Golben, ministre aux affaires étrangères de la République de Miridian, ait le plaisir de présenter un avis favorable à votre requête."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [20,74,199],
+		"innerColor": [245,33,33],
+		"uniqueName": "Einsenkaiser",
+	        "uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"cities": ["Elysium", "Sturmburg", "Lowenstadt", "Hafenberg", "Villar", "Vepec", "Adlerbrug", "Konigstadt", "Doleau"]
+	},
+
 ]
