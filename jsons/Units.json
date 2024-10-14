@@ -192,5 +192,19 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
+		"civilopediaText": [{"text": "Les Blut Lowen ont été créé en 1935 par le roi du Nord de l'époque: Conrad von Haffenberg. L'objectif était que les Blut Lowen assassine le roi du Sud. Durant les deux années suivant la création des Blut Lowen ils ont été entraînés dans des conditions si extremes, que sur les 180 sélectionnés à l'origine seul 53 sont restés, 106 ont abandonnés et 21 sont morts. Le 3 novembre 1937 l'opération 'pluie de sang' est lancée. Les Blut Lowen sont parachutés dans la campagne environnante d'Elysium à 3h du matin. À 5h ils pénètrent dans Elysium à travers le port en nageant 20 km. À 8h ils lancent l'assault sur le palais royal en ouvrant le feu sur les gardes. Ils réussissent à pénètrer dans le bâtiment et à abattre le roi, son cousin, son frère ainsi que le général en chef des armées. En revanche le prince et la reine parviennent à s'échapper. À 8h57 le chef des Blut Lowen sonne la retraite. Sur les 53 membres 12 parviennent à s'échapper, 34 sont morts sur place et 7 sont rattrapés, jugés et executés. Depuis les Blut Lowen ont continués leurs opérations jusqu'à aujourd'hui."}]
 	},
+
+	{
+		"name": "Division d'Aérocombat de la Garde Républicaine",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Faravan",
+		"replaces": "Paratrooper",
+		"movement": 3,
+		"strength": 55,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot",
+		},
 ]
