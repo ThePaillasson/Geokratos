@@ -750,4 +750,39 @@
 		"cities": ["Sokshō", "Tomocho", "Toyama", "Kōshi", "Houren", "Asakura", "Miyako", "Moon"]
 	},
 
+	{
+		"name": "Saint-Marquise",
+		"leaderName": "Président Joshua Andrew Caleb",
+		"adjective": ["Saint-Marquois"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Le pays est né grâce à un pacte durement gagné et signé entre les amérindiens et les colons franco-anglais. Des années suivant la signature de cette alliance, la cohabitation fut difficile pour cause de différences culturelles, mais grâce à deux hommes : Marquise, un français et Mont-Law, un anglais, qui ont réussi à trouver un compromis avec les autochtones pour continuer à coexister et faire naitre la Nation. Le français était de confession catholique, il donna son nom au pays et l'anglais, lui, donna son nom à la future Capitale.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Envoyez vos messages de diplomatie ici, le Premier Conseiller vous répondra, mais lorsque celui-ci est en mission diplomatique, c'est le Chef législatif de la Chambre supérieure, le Haut Sénateur, qui prendra le relais, temporairement, dans les relations diplomatiques internationales, à la demande du Président de la République de Saint-Marquise.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [7,0,178],
+		"uniqueName": "Diplomatie",
+	        "uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
+		"cities": ["Mont-Law", "Barthelemew", "Bluepont", "Villecorn", "Valmount", "Port Hafen"]
+	},
+
 ]
