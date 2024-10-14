@@ -179,4 +179,18 @@
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [1] [Gunpowder] units"],
 		"attackSound": "machinegun"
 	},
+
+	{
+		"name": "Blut Lowen",
+		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "Miridian",
+		"movement": 3,
+		"strength": 85,
+		"cost": 500,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
+	},
 ]
