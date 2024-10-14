@@ -164,4 +164,19 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
+
+	{
+		"name": "Helicoptère de transport lourd",
+		"unitType": "Helicopter",
+		"replaces": "Helicopter Gunship",
+		"uniqueTo": "Saint-Marquise",
+		"movement": 6,
+		"strength": 60,
+		"cost": 450,
+		"requiredTech": "Computers",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [1] [Gunpowder] units"],
+		"attackSound": "machinegun"
+	},
 ]
