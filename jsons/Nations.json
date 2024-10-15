@@ -892,4 +892,39 @@
 		"cities": ["Ligert", "Vallètez", "Nonques", "Trouffles", "Poifflins", "Sant-Clèr-Iès-Vallètez", "Sphornes", "Holéons"]
 	},
 
+	{
+		"name": "Kölisburg",
+		"leaderName": "Wilhem III",
+		"adjective": ["Kölisien"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Le pays est heureux et les citoyens sont attachés à des valeurs conservatrices qui sont représentés par la monarchie et la religion mais aussi des valeurs plus modernes comme la fédération de leur pays. Les Kolisiens et Kolisiennes ont notamment montrés dans le passé un soutien à la commune de Kotios pour son affranchissement et soutenu des pays qui proclamait la fédéralisation de leur état. De plus, les citoyens sont soucieux de leurs droits et sont considérés comme étant une main d'oeuvre de qualité dû à leur travaille acharné et leur investissement. La population est pauvrement variée dû à sa situation géographique bien que le tourisme dans les états du nords notamment se fait dû aux évènements météorologiques tels que les aurores boréales et des vallées verdoyantes et notamment pour leur culture du bain thermal.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Ici, le canal diplomatique reçoit les missives des pays du monde.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,203,33],
+		"innerColor": [187,1,1],
+		"uniqueName": "Conservatisme",
+	        "uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+2] Movement <for [Water] units>"],
+		"cities": ["Galgarde", "Trifftenberg", "Pärbruck", "Wälhen"]
+	},
+
 ]
