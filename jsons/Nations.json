@@ -857,4 +857,39 @@
 		"cities": ["Bandarhan", "Sabriz", "Habaland", "Bushiraz", "Katanz", "Gilanan", "Izfoul", "Dazaran", "Bandar Mashhad"]
 	},
 
+	{
+		"name": "Gallouèse",
+		"leaderName": "Bastien II dè Draune",
+		"adjective": ["Gallèsant"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "L'Histoire du duché débute en 1210, lorsque Hervé dè Balde, vassal d'un Empire Chrétien Eurysien, obtient l'indépendance de son duché qui devient le Duché de Gallouèse (à l'époque orthographié 'Galluaeze'). Plusieurs siècles d'histoire riches en conquêtes et en alliances et une succession de plusieurs dynasties vont voir émerger au XXe siècle un Etat puissant, mais qui peine à s'industrialiser. (Au XVII, les Ducs entreprennent la colonisation d'îles Afaréennes. Politiquement, le pays se démocratise au cours des XVIIIe et XIXe siècles. Le premier acte dans ce sens est la déclaration de l'indépendance de la justice avec la création de l'Arrët ohh Paje en 1779 sous le Duc Thémond VII. Le pays se dotera par la suite d'un Parlement légisaltif (1854) et d'un système de mairie avec les premières élections libres (1867)). À partir des années 1940, la montée du progressisme, la crainte d'une guerre avec la Starlie voisine, aggravés par une crise économique et une guerre coloniale dans laquelle le pays était empêtré, provoquent un grondement de révolte; et c'est spontanément que le Duc Théare IV décide de laisser le pouvoir à un groupe issu de la bourgeoisie, qui proclame la République le 20 décembre 1951. Les premières élections nationales universelles de 1952 voient la victoire d'Aurvoit Belventôle (conservateur)(il reçoit alors le titre de 'interrex' et préside l'assemblée constituante, selon la volonté du Duc), qui ne tarde pas à instaurer une dictature autoritaire, et se proclame "Père unique de la Nation" le 30 juin 1952. Suivront 36 ans de dictature rude et inhumaine qui traumatiseront le peuple entier. La torture et les exécutions sommaires étaient choses courantes, et la terreur régnait. Cependant, dans les années 80, Belventôle s'affaiblissant, les mouvement contestataires purent prendre de l'ampleur, et notamment 'Salut du Peuple', dirigé par l'héritier légitime du duché, Bastien dè Draune. Celui-ci mena une révolution le 26 août 1988, qui se solda par la destitution de Belventôle - assassiné dans la foulée par la hargne populaire - et rétablit le duché en instaurant un régime semi-parlementaire.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Les affaires seront traitées avec le plus grand soin au nom de son excellence Bastien II dè Draune, Duc de Gallouèse.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Neutralité",
+	        "uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
+		"cities": ["Ligert", "Vallètez", "Nonques", "Trouffles", "Poifflins", "Sant-Clèr-Iès-Vallètez", "Sphornes", "Holéons"]
+	},
+
 ]
