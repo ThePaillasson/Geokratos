@@ -750,4 +750,215 @@
 		"cities": ["Sokshō", "Tomocho", "Toyama", "Kōshi", "Houren", "Asakura", "Miyako", "Moon"]
 	},
 
+	{
+		"name": "Saint-Marquise",
+		"leaderName": "Président Joshua Andrew Caleb",
+		"adjective": ["Saint-Marquois"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Le pays est né grâce à un pacte durement gagné et signé entre les amérindiens et les colons franco-anglais. Des années suivant la signature de cette alliance, la cohabitation fut difficile pour cause de différences culturelles, mais grâce à deux hommes : Marquise, un français et Mont-Law, un anglais, qui ont réussi à trouver un compromis avec les autochtones pour continuer à coexister et faire naitre la Nation. Le français était de confession catholique, il donna son nom au pays et l'anglais, lui, donna son nom à la future Capitale.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Envoyez vos messages de diplomatie ici, le Premier Conseiller vous répondra, mais lorsque celui-ci est en mission diplomatique, c'est le Chef législatif de la Chambre supérieure, le Haut Sénateur, qui prendra le relais, temporairement, dans les relations diplomatiques internationales, à la demande du Président de la République de Saint-Marquise.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [7,0,178],
+		"uniqueName": "Diplomatie",
+	        "uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
+		"cities": ["Mont-Law", "Barthelemew", "Bluepont", "Villecorn", "Valmount", "Port Hafen"]
+	},
+
+	{
+		"name": "Miridian",
+		"leaderName": "Einsenkaiser",
+		"adjective": ["Miridien"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Le 5 février 1623 des colons Primains et Ambarrois mener par les capitaine Hans von Hafenberg et Francois de Villar décidèrent de s'installer sur le sol aleucien. Ainsi une baie jugée propice à l'installation d'une ville fut choisit, cette ville fut appeler Elysium. La région était abitée par une tribu nommée les Karbe, les 2 capitaines décidèrent de cohabiter pacifiquement avec les indigènes. Au bout de 30 ans de cohabitation amicale les 2 capitaines qui dirigeaient le jeune pays moururent. Mais leurs fils ne voulaient plus partager le pouvoir entre les deux familles. Ils voulaient tous les deux régner seul. Ce qui devait arriver arriva. Ainsi le 16 mars 1653 les 2 hommes se déclarèrent la guerre. Le premier prit la tête du nord du pays, il s'appelait Karl von Hafenberg. Le second prit la tête du sud, son nom était Charles de Villar. La première bataille fut celle pour Elyseum le 25 mars 1653. Elle fut sanglante, ce jour la 16 000 hommes perdirent la vie. La bataille dura 3 jours, les troupes de von Hafenberg furent chassées de la ville. Il décida alors de s'installer Sturmburg, pendant ce temps de Villar lui s'installa à Elysium. Karl von Haffenberg dut trouver un moyen pour justifier cette défaite, il accusa alors les indigènes de s'être ranger aux cotés de de Villar. Il érigea alors les indigènes en ennemis numéro 1 et ses troupes mieux armées et nourries que les indigènes les massacrèrent. Les quelques survivant à cette purge se rallièrent alors à la cause de de Villar. Et la guerre dura et dura. Il y eut quelque bataille notoire comme en 1875 où les troupes de Otto von Hafenberg faillirent reprendre Elysium, 54 milles morts. L'an 2008 vit venir la fin de ce conflit fratricide. Les 2 royaumes détruits et ruinés voient arriver la menace d'une invasion extérieure(l'Angelya), les 2 rois décident alors de mettre leurs différents de cotés et de s'unir pour faire face. L'assaillant fut repousser et la guerre des frères comme on l'appelle aujourd'hui prit fin, après 355 années de combat.",
+		"startIntroPart2": "Les 2 rois décidèrent de revenir à l'ancien régime où le pays était dirigé par 2 rois. Mais le peuple n'était pas de cette avis. Le 27 juin 2008 une centaine d'homme se réunirent dans une maison d'Elysium et élire un chef. Afin de représenter les 2 ethnies qui peuplaient le pays ils choisirent un Primain-Ambarois surnommé l'homme de fer pour son courage. En 40 jours les 2 rois furent défait, les pertes furent estimées à 32 000 milles morts. Ainsi le 6 aout 2008 fut proclamer la république de Miridian. Les deux rois furent juger de crime contre l'unité nationale, la liberté et condamnés à mort. Pendant 2 ans un gouvernement provisoire dirigea Miridian. Une constitution fut voter par le peuple. Et l'homme de fer fut élu kaiser(président), on l'appela alors Eisenkaiser, l'empereur de fer. Le 6 aout fut choisit comme date de fête nationale(date de la proclamation de la République), par ailleurs le 27 juin(début de la révolution)et le 5 février(installation des colons) sont aussi des jours fériés. Deux immenses mémoriaux ont d'ailleurs été construit, l'un en hommage aux victimes de la purge et l'autre aux morts militaires et civiles à la guerre des frères."
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Veuillez agréer mes plus sincères salutations.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Moi Hans Golben, ministre aux affaires étrangères de la République de Miridian, ait le plaisir de présenter un avis favorable à votre requête."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [20,74,199],
+		"innerColor": [245,33,33],
+		"uniqueName": "Einsenkaiser",
+	        "uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"cities": ["Elysium", "Sturmburg", "Lowenstadt", "Hafenberg", "Villar", "Vepec", "Adlerbrug", "Konigstadt", "Doleau"]
+	},
+
+	{
+		"name": "Faravan",
+		"leaderName": "Arash Farajpour",
+		"adjective": ["Faravanien"],
+		"startBias": ["Desert", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Zoroastrianism",
+
+		"startIntroPart1": "Faravan est un vieux pays. De tradition persane, son histoire est millénaire et chargée de références, de conflits ainsi que d'exploits. Aujourd'hui une démocratie stable, la République Faravanienne fait le lien entre les traditions et les aspirations libérales de son peuple. Basé sur une économie rentière liée à l'exploitation de son sol riche en hydrocarbures et autres gaz, cette pétrodémocratie a pu se financer pour proposer à ses citoyens des services à la hauteur de leurs aspirations. L'état n'hésite alors pas à piocher dans les caisses pour financer ce dont le peuple a besoin. Caisses alimentés par le bon sens du commerce qui a su être transmis de générations en générations chez les faravanien. Malgré cela, le pétrole ne coulera pas éternellement, et la république le sait. Des tentatives de diversification de son économie feront certainement partie de son futur.",
+		"startIntroPart2": "En outre, le climat globalement chaud de la région ne lui permettra pas non plus de développer son agriculture sans investissements d'infrastructure considérables. Composée de nombreuses régions désertiques et montagneuses, sa géographie est sa force tout en étant sa faiblesse. Faisant face à de nombreux défis, présenté par au moins autant d'opportunités, Faravan s'élance confiant vers un avenir qu'il espère radieux.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Salutations.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [200,16,46],
+		"innerColor": [0,150,57],
+		"uniqueName": "Empathie",
+	        "uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
+		"cities": ["Bandarhan", "Sabriz", "Habaland", "Bushiraz", "Katanz", "Gilanan", "Izfoul", "Dazaran", "Bandar Mashhad"]
+	},
+
+	{
+		"name": "Gallouèse",
+		"leaderName": "Bastien II dè Draune",
+		"adjective": ["Gallèsant"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "L'Histoire du duché débute en 1210, lorsque Hervé dè Balde, vassal d'un Empire Chrétien Eurysien, obtient l'indépendance de son duché qui devient le Duché de Gallouèse (à l'époque orthographié 'Galluaeze'). Plusieurs siècles d'histoire riches en conquêtes et en alliances et une succession de plusieurs dynasties vont voir émerger au XXe siècle un Etat puissant, mais qui peine à s'industrialiser",
+		
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Les affaires seront traitées avec le plus grand soin au nom de son excellence Bastien II dè Draune, Duc de Gallouèse.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Neutralité",
+	        "uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+10]% Strength <for [All] units> <during a Golden Age>"],
+		"cities": ["Ligert", "Vallètez", "Nonques", "Trouffles", "Poifflins", "Sant-Clèr-Iès-Vallètez", "Sphornes", "Holéons"]
+	},
+
+	{
+		"name": "Kölisburg",
+		"leaderName": "Wilhem III",
+		"adjective": ["Kölisien"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Le pays est heureux et les citoyens sont attachés à des valeurs conservatrices qui sont représentés par la monarchie et la religion mais aussi des valeurs plus modernes comme la fédération de leur pays. Les Kolisiens et Kolisiennes ont notamment montrés dans le passé un soutien à la commune de Kotios pour son affranchissement et soutenu des pays qui proclamait la fédéralisation de leur état. De plus, les citoyens sont soucieux de leurs droits et sont considérés comme étant une main d'oeuvre de qualité dû à leur travaille acharné et leur investissement. La population est pauvrement variée dû à sa situation géographique bien que le tourisme dans les états du nords notamment se fait dû aux évènements météorologiques tels que les aurores boréales et des vallées verdoyantes et notamment pour leur culture du bain thermal.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Ici, le canal diplomatique reçoit les missives des pays du monde.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,203,33],
+		"innerColor": [187,1,1],
+		"uniqueName": "Conservatisme",
+	        "uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+2] Movement <for [Water] units>"],
+		"cities": ["Galgarde", "Trifftenberg", "Pärbruck", "Wälhen"]
+	},
+
+	{
+		"name": "Listonia",
+		"leaderName": "Empereur Philipe Ongro III",
+		"adjective": ["Listonien"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Vieil empire colonial sur le déclin, l’Empire listonien est une puissance eurysienne déchue qui tente envers et contre tout de maintenir son ancienne gloire. Peuple fier et conservateur, les listoniens incarnent un fragment d’une époque coloniale pro-eurysienne désormais révolue. De nature isolationniste, la nation listonienne se retrouve pourtant aujourd’hui confrontée à une crise sans précédent qui met en péril plus d’un millénaire de domination coloniale à travers le globe.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Votre réputation vous précède. L'Empire Listonien a reçu et pris connaissances de votre invitation. Et sur ordre de mon suzerain, apporte par ma présence une réponse à celle ci.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [248,195,0],
+		"innerColor": [0,81,151],
+		"uniqueName": "Colonia excommunicatus !",
+	        "uniques": ["No damage penalty for wounded units <for [non-[Air]] units>", "[+20]% Strength <when fighting units from a Civilization with more Cities than you>", "[+2] Movement <for [Water] units>"],
+		"cities": ["Listonia", "Almada", "Faro", "Macao", "Bajawa", "Albigärk", "Nasabis", "Manilla", "Shati Alqahwa", "Porto-Mundo", "Santialche", "Jadida", "Tartugà", "Rosborg", "Jadis", "Port-Hafen"]
+	},
+
 ]
