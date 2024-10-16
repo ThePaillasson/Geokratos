@@ -206,5 +206,21 @@
 		"requiredTech": "Radar",
 		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
 		"attackSound": "shot",
-		},
+	},
+
+	{
+		"name": "Legio Mortis",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Listonia",
+		"replaces": "Machine Gun",
+		"range": 1,
+		"movement": 2,
+		"strength": 120,
+		"rangedStrength": 120,
+		"cost": 525,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+		"civilopediaText": [{"text": "'Etiam mors potest mori' - 'Même la mort peut mourir'"}]
+	},
 ]
