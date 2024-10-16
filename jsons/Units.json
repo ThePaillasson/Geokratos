@@ -175,8 +175,7 @@
 		"cost": 450,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [1] [Gunpowder] units"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "Can carry [1] [Gunpowder] units"],
 		"attackSound": "machinegun"
 	},
 
