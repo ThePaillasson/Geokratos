@@ -236,4 +236,18 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+
+	{
+		"name": "Forces Communales de Police",
+		"unitType": "Zélandia",
+		"uniqueTo": "Rasken",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 250,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 ]
