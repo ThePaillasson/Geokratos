@@ -1032,4 +1032,76 @@
 		"cities": ["Blankenvoorde", "Amstergraaf", "Nij-Amstergraaf-Rotterlo", "Noordcroen", "Koninklijke haven", "Frije haven", "Nij-Blankenvoorde", "Emzijl", "Slohoven", "Baai Stêd"]
 	},
 
+	{
+		"name": "Rasken",
+		"leaderName": "Stanislav Schützenberger",
+		"adjective": ["Listonien"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Rasken est un empire à la fois récent et ancien. En effet, avant 1951, le pays s'appelait la République de Brod Flor et avant 1846, le royaume d'Efrein. Cependant, la république, voulant faire table rase du passé, a détruit une bonne partie des archives sur le royaume d'Efrein. La création de Rasken intervient dans un climat compliqué. En effet, des décennies de mauvaise gestion du pays par la République ont entraîné un mécontentement général de la population. Ce mécontentement a grossi d'année en année jusqu'au 12 janvier 1951, où une révolte a éclaté dans la région d'Adeon. Suite à cette révolte, la République a envoyé son armée afin de calmer la situation. Quelle ne fut pas leur surprise lorsque les soldats envoyés furent accueillis par un feu nourri de la part d'avions et de chars. En effet, cette révolte avait cela de particulier qu'elle n'était pas uniquement menée par le peuple, mais aussi par une générale qui avait réussi à rallier une partie de l'armée à sa cause. Cette générale répondait au nom de Kristina Schützenberger et avait 34 ans. Elle avait rassemblé 300 000 hommes sous sa bannière, celle d'un nouveau pays, Rasken. La guerre a duré en tout 25 ans, 9 mois et 4 jours (même si les périodes de combat furent alternées par des périodes de relative paix) et s'est achevée le 8 octobre 1976. Pendant une période de relative paix en 1964, le pays était toujours sous une dictature militaire. Kristina décida alors d'organiser une sorte de référendum pour le peuple.",
+		"startIntroPart2": "Suite à ce référendum, les résultats sont tombés le 3 juillet. Le peuple a choisi à 73,8 % l'Empire, à 16,4 % le maintien de la dictature et à 9,8 % la république. C'est ainsi que le 14 juillet, jour de la fête nationale, l'Empire fut proclamé et Kristina Schützenberger devint la première impératrice de Rasken.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Les ambassades ont toujours été un moyen pour les pays d'entretenir des relations, mais cela n'est valable qu'en temps de paix.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [250,2,2],
+		"uniqueName": "Militarisme",
+	        "uniques": ["[-50]% maintenance costs <for [Sword] units>","[-50]% maintenance costs <for [Gunpowder] units>","[+50]% XP gained from combat <for [Military] units>"],
+		"cities": ["Eberstadt", "Hamförd", "Osterwald", "Königbeck", "Bonnberg", "Ostermont", "Mielaska"]
+	},
+
+	{
+		"name": "Clovanie",
+		"leaderName": "Louis Ier",
+		"adjective": ["Clovanien"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "La Clovanie est un pays marin, la majorité de sa population résidant sur les côtes et vivant des dynamiques économiques liées à la mer (pêche, commerce, tourisme,...). La capitale Legkibourg est aussi située sur la côte. L'arrière pays est défavorisé, ce qui entraîne son dépeuplement ainsi que le mécontentement des habitants qui y restent. Il demeure toutefois plein de ressources alimentaires et de magnifiques paysages. La Principauté de Clovanie a vu le jour au Vème siècle après JC, avec le premier Prince Clovan Ier. Celui-ci donna naissance à la dynastie des Clovaniens qui est encore aujourd'hui à la tête du pays. Au fil des siècles, la Clovanie se développa grâce à ses côtes, la marine et ses traditions y tiennent donc une place prépondérante.",
+		"startIntroPart2": "L'Empire tire ses racines du grand Pétroléon Premier (1864-1915), celui qui a fait passer la principauté de Clovanie au rang de République Impériale Pétroléonienne et qui a donné à la Clovanie tout son rayonnement actuel en conquérant de nombreux territoires et en modernisant le pays. Il existe toutefois encore des réfractaires qui forment un parti important dans toutes les couches de la société, souhaitant un retour aux anciennes traditions. Le gouvernement actuel écoute leurs doléances mais conserve l'héritage du Premier Empereur. Il existe aussi une jeunesse progressiste fougueuse qui se fait entendre dans les universités. La Clovanie est un Empire, elle a donc vocation à s'étendre dans l'espace. Les différentes régions de l'Empire sont assez soudées grâce à une administration et une communication efficaces et le pouvoir exécutif puissant est prêt à intervenir en cas de velléité d'indépendance. Une fiscalité très performante permet de redistribuer les richesses aux Clovaniens les plus démunis.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Vos missives diplomatiques seront reçues ici par Gaspard Razoumikhine, Ministre Impérial des Affaires Étrangères.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [0,53,169],
+		"innerColor": [255,66,62],
+		"uniqueName": "Ortholicisme",
+	        "uniques": ["[-10]% Culture cost of adopting new Policies", "[+25]% [Faith] [in annexed cities]"],
+		"cities": ["Legkibourg", "Erdaim", "Leongrad", "Fassalemert", "Solgrad", "Amelikovo", "Minères", "Puis-sur-mont", "Solki", "Koslov"]
+	},
+
 ]
