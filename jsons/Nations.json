@@ -1104,4 +1104,40 @@
 		"cities": ["Legkibourg", "Erdaim", "Leongrad", "Fassalemert", "Solgrad", "Amelikovo", "Minères", "Puis-sur-mont", "Solki", "Koslov"]
 	},
 
+	{
+		"name": "Sterus",
+		"leaderName": "Cameus Bondamet",
+		"adjective": ["Sterusien"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Sterus est une fédération regroupant 11 républiques semi-autonomes . Ces 11 républiques sont toutes héritières et descendantes des premiers colons venus d’eurysies du Sud. Ces premiers colons étaient avant tout à la recherche d’une nouvelle terre vierge ou pouvoir développer leur culte assez peu respecté sur leurs terres. En 1648 trois navires, accostent sur les cotes d’une nouvelle terre semblant dépourvues de présence humaine. Ces trois navires n’arborent aucun pavillon et ne sont pas remplis de guerriers ou de marchands, mais de multiples familles. Ils appartiennent à une communauté peu connue d’Eurysie, cette communauté a comme mode de vie celui de vénérer et de reproduire les coutumes de l’antiquité romaine. Parmi eux, il existe tout de même une nuance sur les croyances, certains sont favorable aux croyances religieuses romaine polythéiste quand d’autre sont favorables aux croyances d’après J.-C. et donc a une religion catholique Romaine.",
+		"startIntroPart2": "Cette division n’était en aucun cas un problème pour les prémisses de cette colonisation, chaque genre de croyance vivait selon son culte sans poser de problèmes à l’autre. 100 ans plus tard après des années de migrations la population totale de cette colonie pu atteindre le million d’habitants. Avec ce million d’habitants le mélange de culture entre ceux que l’on appelle les Romanique (pro mythologie romaine et antiquité romaine) et les catholiques romain commençait a créer quelques tensions. En 1786 l’inauguration de la première cathédrale a Barba (la capitale) lança les Romanique dans une lutte sans merci pour stopper ce qu’ils appelaient « Le coup d’état des catholiques », Armes a la main ils entrèrent dans la cathédrale pendant la première messe et tirèrent dans la foule sans distinction d’âge ou de sexe. La riposte des catholiques eu lieu deux semaines plus tard avec le massacre de « Blinium » (petit village en périphérie) ou les catholiques ont en pleine nuit envahis et tués tous les romaniques du village.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Chers Homologues étrangers le 1er consul m’a nommé Magistrat des affaires Étrangères. Par conséquent, je serais votre interlocuteur pour chaque attention porté à notre grande nation. Sa majesté le 1er consul vous remercie de l’attention portée à notre grande nation.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [143,21,10],
+		"innerColor": [75,16,72],
+		"uniqueName": "Veni, vedi, vici",
+	        "uniques": ["[-10]% Culture cost of adopting new Policies", "[+3 Culture] from every [Luxury resource]"],
+		"cities": ["Barba", "Luvia", "Okleam", "Bomeud", "Hakeium", "Minea", "Seculpe", "Luten", "Romulus", "Honofre", "Leonide"]
+	},
+
 ]
