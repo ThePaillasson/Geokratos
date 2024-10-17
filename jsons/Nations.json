@@ -1140,4 +1140,39 @@
 		"cities": ["Barba", "Luvia", "Okleam", "Bomeud", "Hakeium", "Minea", "Seculpe", "Luten", "Romulus", "Honofre", "Leonide"]
 	},
 
+	{
+		"name": "Poëtoscovie",
+		"leaderName": "Jolan Sandro",
+		"adjective": ["Poëtoscovien"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Il y a fort longtemps, alors que les guerres d’Eurysie ravageaient le monde et le profit manipulait les cerveaux, des artistes en quête de liberté tentèrent de proclamer libre un territoire abandonné des hommes et qu'ils souhaitaient leur : Ces conflits, opposant la Fédération des États Libres (FEL) à l’Ouest et le Grand Empire Colonialiste (GEC) à l’Est, durent depuis longtemps. Cependant, les Premiers Poëtes, soldats de la FEL, firent œuvre de mutinerie et désertèrent à bord du Neruda et débarquèrent en derrière les lignes ennemies, à l’extrême Est du GEC, dans l’espoir d’y trouver des terres de liberté. Sur ces terres où les militaires – les hommes de plus de 18 ans – étaient partis vers l’Ouest pour la guerre, les autochtones accueillirent chaleureusement les nouveaux arrivants, ramenant avec eux leur culture, notamment littéraire. Les avancées sociales apportées par les Premiers Poètes sur différents plans conduisirent la politique des Poëtoscoviens à s’étendre jusqu’à une première proclamation après que les gouverneurs des provinces conquises rejoignent le mouvement. Face à une telle ampleur d’un mouvement bientôt contestataire, le GEC fut contraint d’envoyer l’armée et l’Occupation commença. Durant 13 ans, le territoire actuel de la RP fut dirigé par des militaires. La poésie, dorénavant symbole de résistance, fut interdite par décret impérial, et quiconque surpris à en écrire ou en lire partait, emmené par une police politique, et on ne les revoyait plus jamais.",
+		"startIntroPart2": "Ainsi, des groupuscules pro-GEC entaient chez les gens, sortaient leurs livres dans la rue et les brûlaient. Face à cette menace, d’autres organisations furent créées non-officiellement, comme l’Ordre du Sphinx (réputé pour de multiples assassinats de chefs des pro-GEC) ou le Culte de Maldoror (riche secte servant les intérêts de la littérature, le plus souvent la poésie noire, mais se composait également de hauts-responsables du GEC pour l’Empire mais contre la répression littéraire. À la chute du Grand Empire Colonialiste responsable de ces nombreux tourments, les chefs de la résistance, les premiers Poëtes, s'emparèrent de la fonction politique du territoire pour en faire une république indépendante et libre.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "N'hésitez pas à laisser un message. Tous sont lus attentivement. Le Président de la République, le Ministre ou l'autorité sollicitée vous répondra dans les plus brefs délais.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,74,152],
+		"uniqueName": "Poésie",
+	        "uniques": ["[+2 Culture] [in capital] <starting from the [Ancient era]>","[+2 Culture] [in capital] <starting from the [Medieval era]>","[+2 Culture] [in capital] <starting from the [Industrial era]>","[+2 Culture] [in capital] <starting from the [Atomic era]>", "Gain an extra spy <upon entering the [Renaissance era]>"],
+		"cities": ["Hernani-centre", "Rome", "La Révoltée", "Tienne", "Loreïgrad"]
+	},
+
 ]
