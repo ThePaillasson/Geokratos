@@ -1246,4 +1246,39 @@
 		"cities": ["Kotarakyat", "Pradipta", "Baranglama", "Hijau", "Pantaibaru"]
 	},
 
+	{
+		"name": "Caratrad",
+		"leaderName": "Elizabeth Ière",
+		"adjective": ["Caratradais"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Nous Sommes Toujours Là - Mes Épines Piquent",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Le secrétariat royal des affaires étrangères est l'institution caratradienne qui a pour fonction de représenter le pays, son gouvernement et son souverain à l'étranger. Il promeut et défend donc partout les intérêts du royaume, étant chargé d'entretenir des relations diplomatiques au nom de tous les habitants de l'Union.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [0,0,92],
+		"innerColor": [207,20,43],
+		"uniqueName": "Opportunisme",
+	        "uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
+		"cities": ["Bryngaerdinas Pil", "Sicherkrik", "Porth Dwyrpen", "Camford", "Porth Rhydweli", "Caer Penrhyn", "Windport"]
+	},
+
 ]
