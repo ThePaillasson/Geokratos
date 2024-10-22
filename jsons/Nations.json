@@ -1210,4 +1210,40 @@
 		"cities": ["Carnavale", "Grand Hôpital", "Fort-Marin"]
 	},
 
+	{
+		"name": "Negara Strana",
+		"leaderName": "Kawaya Haryanto",
+		"adjective": ["Stranéen"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Buddhism",
+		
+		"startIntroPart1": "L’histoire de la nation stranéenne est marquée par la colonisation fujiwane. L’empire de Fujiwa arrive au Royaume de Strana en mars 1927. Disposant de technologies avancées, la colonisation est rapide. Bien que le peuple stranéen ait beaucoup souffert de l’occupation, il est indéniable que celle-ci a permis au pays de se développer notamment dans le domaine portuaire. La ville de Pōto (de nos jours nommée Pradipta) a connu un formidable essor lors de la colonisation. Aujourd’hui, la ville abrite une partie de la diaspora fujiwane.",
+		"startIntroPart2": "Le 21 juillet 1956, la guerre d’Indépendance, la Berjuang, débute avec une série d’attentat dans la capitale. Les valeureux combattants socialistes et communistes défait l’occupant fujiwan jusqu’à l’indépendance du Negara Strana, proclamé le 24 mars 1960.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "La diplomatie stranéenne a pour ambition de s'ouvrir au monde et de s'investir d'avantage dans les relations internationales.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [131,37,37],
+		"innerColor": [255,229,143],
+		"uniqueName": "Unis dans la lutte",
+	        "uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>"],
+		"cities": ["Kotarakyat", "Pradipta", "Baranglama", "Hijau", "Pantaibaru"]
+	},
+
 ]
