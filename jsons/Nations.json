@@ -1175,4 +1175,39 @@
 		"cities": ["Hernani-centre", "Rome", "La Révoltée", "Tienne", "Loreïgrad"]
 	},
 
+	{
+		"name": "Carnavale",
+		"leaderName": "Familles Dalyoha, Obéron et Castelage",
+		"adjective": ["Carnavalais"],
+		"startBias": ["Coast", "Plains"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "La Principauté de Carnavale porte bien mal son nom. Les princes sont morts et la couronne est tombée dans le port un jour d'émeute. Seul la deuxième partie de son nom mérite en réalité d'être retenue : Carnavale : la cité millénaire, le joyau occidental. Du moins était-ce ainsi qu'on l'appelait autrefois. Carnavale n'est plus qu'une immense ruine dégénérée où évolue une population bien trop nombreuse, pourvoyeuse de savants fous, de génies du mal et des pires criminels que connaisse ce monde. La ville s'étend sur des kilomètres et des kilomètres de building plus ou moins croulants, entretenus par des milliers de petites mains ayant fait de cet endroit leur ruche. Hors de la ville, ne reste plus que les mornes pâturages saturés de produits chimiques censés assurer l'autonomie alimentaire de la région, il n'existe aucune autre ville. Depuis des décennies maintenant, Carnavale semble avoir fait le choix du moindre mal : celui des cancers et des intoxications plutôt que la famine, des murs saturés d’amiante plutôt que des bidonvilles, de l'extrême richesse d'une minorité plutôt que la pauvreté égalitaire pour tous. La Principauté de Carnavale est le reliquat bâtard et incestueux d'un État démissionnaire, d'une aristocratie dégénérée et de réincorporations devenues toutes puissantes. S'il existait autrefois un pouvoir politique démocratique, celui-ci s'est écroulé sur lui-même, sous les coups de boutoir de la haute bourgeoisie et de l'ancienne noblesse sur fond de guerre des gangs. Alors que le pouvoir démocratique s’enlisait dans la corruption, le luxe et la violence, il a petit à petit perdu le contrôle sur les anciennes aristocraties marchandes, devenues trop puissantes, qui se sont entre-tuées. D'abord combat légaliste, devant l'incapacité des forces de police à maintenir l'ordre, la capitale s'est embrasée en guerre générale sur les ruines fumantes de ce qui avait été l'une des plus grandes et prospères cités du monde jusqu'à ce qu'en émerge une poignée de survivantes : les famille Dalyoha, Obéron et Castelage.",
+		"startIntroPart2": "Désormais toutes puissantes, loin de leurs promesses de prospérité retrouvée pour le peuple, elles n'ont cessé les hostilités que pour mieux recommencer à concentrer dans le creux de leurs main un maximum de richesses possibles, ne laissant que les miettes à la masse laborieuse. Aujourd'hui Carnavale se résume à une dystopie crasseuse dans un décor désargenté. Dans les quartiers riches, les multi-millionnaires se font la cour aux galas de charités, dans les ruelles les citoyens se multiplient comme des mauvaises herbes nourries par un terreau de criminalité, de marchés noirs et de corruption. L'industrie parvient à peine à entretenir les bâtiments et tout ce qui n'appartient pas aux besoins basique est accaparé par les plus riches pour maintenir leur niveau de vie indécent et leurs industries privées à la pointe de la technologie. Pourtant, les citoyens de Carnavale ne sont pas complètement abandonnés à eux mêmes : dans cet enfer, quelques institutions survivent. Le Grand Hôpital, sur l'île de Bourgléon, tente désespérément d'offrir son aide à la population toujours plus demandeuse de soins. Le Commissariat Central, institution autonome depuis la chute de l'Etat, continue de recruter des volontaires pour protéger les civiles et lutter contre la criminalité dans ce qui prend de plus en plus des allures de guerres entre gangs et miliciens. Sur les ruines des pouvoirs traditionnels, le corps des fonctionnaires assure le fonctionnement des services. Recrutés sur concours une fois par an, les magistrats, bureaucrates et avocats assurent de tenir ce monde croulant par la seule force de la loi. Vivier d'âmes désœuvrées, Carnavale est un terrain d'expérimentations politiques sans limite. Démocraties de quartiers, syndicats violents, expériences transhumanistes, trafic d'organe, nul ne se soucie de ce qui se déroule dans l'ombre des buildings gothiques.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Salutations",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Bonjour.",
+
+		"outerColor": [16,15,59],
+		"innerColor": [197,171,108],
+		"uniqueName": "Dystopie financière",
+	        "uniques": ["[+100]% [Gold] [in capital]", "[-50]% maintenance costs <for [Missile] units>", "[+1 Gold, -1 Happiness] from every [Building]"],
+		"cities": ["Carnavale", "Grand Hôpital", "Fort-Marin"]
+	},
+
 ]
