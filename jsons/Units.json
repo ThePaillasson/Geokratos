@@ -250,4 +250,19 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
+
+	{
+		"name": "Missile Obéron",
+		"unitType": "Missile",
+		"replaces": "Guided Missile",
+		"uniqueTo": "Loduarie",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 40,
+		"range": 10,
+		"cost": 50,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "missile"
+	},
 ]
