@@ -1206,7 +1206,7 @@
 		"outerColor": [16,15,59],
 		"innerColor": [197,171,108],
 		"uniqueName": "Dystopie financière",
-	        "uniques": ["[+100]% [Gold] [in capital]", "[-50]% maintenance costs <for [Missile] units>", "[+1 Gold, -1 Happiness] from every [Building]"],
+	        "uniques": ["[+100]% [Gold] [in capital]", "[-50]% maintenance costs <for [Missile] units>", "[+1 Gold, -1 Happiness] from every [Building]", "[+2 Science] from every specialist [in all cities]"],
 		"cities": ["Carnavale", "Grand Hôpital", "Fort-Marin"]
 	},
 
