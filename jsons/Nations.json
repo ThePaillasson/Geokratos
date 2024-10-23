@@ -1313,7 +1313,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [153,0,0],
 		"uniqueName": "Fédération Anarchiste",
-	        "uniques": ["[-10]% Culture cost of adopting new Policies", "[+50]% Golden Age length"],
+	        "uniques": ["[-10]% Culture cost of adopting new Policies", "[+50]% Golden Age length","[+50]% [Gold] [in all cities]"],
 		"cities": ["Mistohir", "Fransoviac", "Embarstoï", "Pendrovac", "Sauvadok", "Bolioska", "Suvishir", "Nitoskiolov", "Detruskia"]
 	},
 
