@@ -1353,4 +1353,76 @@
 		"cities": ["Sivagundi", "Talo", "Aaethalio", "Ilryd", "Jalitaya", "Dhatari"]
 	},
 
+	{
+		"name": "Églises Australes Unies",
+		"leaderName": "Benjamin Dallas",
+		"adjective": ["Glisois"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Les Eglises australes unies sont le fruit de l'exil de Ryan Raxington et de ses nombreux sympathisants d'Aumérine en raison de leur opposition politique à un dirigeant local en 1757. Avec quelques navires et l'appui de partisans dans les leurs, il est parti avec comme but l'Eurysie qu'il aurait atteinte si une tempête n'avait pas dérouté et endommagé sa flotte au point qu'il ne pouvait pas virer de bord. Il dériva donc longtemps jusqu'à atteindre l'extrême sud et ses contrées glacées, où il se résigna à accoster, ne serait-ce que temporairement. Après ce revers de fortune, l'expédition se résigna à trouver un endroit vivable où s'installer. Ils tombèrent alors sur la baie qui abrite aujourd'hui Raxington, la capitale dont la position côtière permet un climat clément par rapport à l'étendue glaciaire qu'est le reste du pays. A partir de là, ils purent construire l'ébauche de ce qui constituerait par la suite les Eglises Antarctiques Unies. Ryan Rexington mit les premières pierres à l'édifice de ce qui seraient les EAU constitutionnellement. Constitution des 9 familles en donnant les postes à responsabilité à ses amis les plus proches, mise en place de la monnaie locale, Construction de la cathédrale Notre-Dame de Rexington et de la forteresse noire. Cependant ce c'est pas Rexington qui a mis le pétrole dans la vie des Glisois, mais bel et bien l'augmentation de la demande de la ressource en question, plusieurs décennies plus tard. Grâce à l'établissement de routes commerciales rudimentaires (pour des fourrures au départ), les nouvelles de l'utilisation du pétrole arrivèrent rapidement et la banquise glaciale qui constituait l'immense continent sur lequel les Eglises étaient placées était devenu un champ d'opportunités. Commence alors une ruée vers le pétrole qui se heurte à un obstacle majeur: les températures abyssalement basses en dehors du golfe de Rexington qui forcent l'innovation. Au départ à vapeur, ils construisirent des gigantesques véhicules destinés à leur servir d'abri contre froid afin d'aller exploiter le pétrole au coeur de leur continent. Ils eurent nombre d'accidents qui permirent d'améliorer entre autres l'isolation des véhicules, leur taille, l'isolation du moteur, et surtout leurs capacités météorologiques afin de repérer les endroits vers lesquels les moteurs ont le moins de risques possibles de geler.",
+		"startIntroPart2": "Ces températures varient au cours de l'année, ce qui force les églises sur roue à se déplacer avec les saisons, donc à un mode de vie nomade. Depuis, puisque le pétrole est devenu de plus en plus indispensable, de plus en plus de glisois ont rejoint les véhicules pétrolier itinérants jusqu'à qu'ils deviennent des véritables piliers institutionnels du pays. Aujourd'hui, 90% de la population vit dans ces véhicules, qui sont peu à peu devenus religieux dûs à la dureté du climat. Cela donne un système où la capitale est l'une des seules installations du pays, et où les exportations de pétrole constituent la majeure partie du PIB du pays. En effet, ils ne sont pas des employés au sens propre mais plus des membres d'une des 9 familles qui gèrent les convois. Ces familles à l'ethos particulièrement paternaliste garantissent un revenu suffisant pour vivre à leurs membres en échange de leur travail, mais les promotions sont réservées à aprtir d'un certain niveau à ceux qui ont le parrainage d'un véritable membre d'une des 9 familles historiques. Les membres disposent d'un système d'assurance qui va avec leur rémunération, payé par les immenses richesses du pétrole. Le pays est fortement divisé politiquement autour de ces 9 églises en lutte d'influence sur la capitale, certaines familles comprenant différemment le message de Dieu, certaines prônant une ouverture plus forte à l'étranger. De plus, il existe aussi un certain antagonisme entre la population de la capitale, sédentaire et les autres lors de leur escale annuelle obligatoire qui marque la réunion des 9 familles. Ceux qui ne veulent pas travailler sur les installations de pétrole restent à la capitale et occupent les fonctions indispensables aux nomades du pétrole: l'armée, pour la défense du golfe de Rexington et pour la filiale de mercenaires glisois, les hôpitaux, pour héberger les malades, les vieux et les femmes enceintes incapables d'affronter le froid relatif de la banquise et l'industrie, pour la transformation du pétrole ainsi que la construction des véhicules nécessaires. Enfin, il y a les institutions politiques de la capitale qui gèrent tout le côté administratif et militaire du pays, et qui sert de départage en cas d'égalité au conseil des 9 familles. Les EAU sont donc une oligarchie pétrolière où la large majorité de la population est nomade afin de continuer à extraire le pétrole de la banquise en évitant le gel.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Sachez tout d'abord que nous sommes flattés de votre intérêt à notre endroit et que nous sommes tout aussi confiants que vous sur le fait que nos points communs sauront éclipser le reste.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [129,197,232],
+		"innerColor": [255,255,255],
+		"uniqueName": "Anarcho-Christianisme",
+	        "uniques": ["Cannot build [Settler] units", "[+100]% unhappiness from the number of cities", "[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced"],
+		"cities": ["Raxington"]
+	},
+
+	{
+		"name": "Tcharnovie",
+		"leaderName": "Monsieur le Président d'Interim Polçedin Dravulka",
+		"adjective": ["Tcharnove"],
+		"startBias": ["Grassland", "Hill", "Avoid [Coast]"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Pour comprendre la Tcharnovie, il faut déjà connaitre son histoire...",
+		"startIntroPart2": "Un grand sage avait dit, autrefois, cette phrase. Il est, ironique, de constater qu'elle est vraie. Divisée depuis la nuit des temps en de diverses états, nations, pays, peuples, ethnies, personne ne semble savoir qui, comment, où et pourquoi tout cela est comme ça.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Salutations.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [80,24,122],
+		"innerColor": [255,203,33],
+		"uniqueName": "Multi-éthnisme",
+	        "uniques": ["[-50]% unhappiness from the number of cities", "[-50]% maintenance costs <for [Land] units>"],
+		"cities": ["Bennesbourg", "Kenesbourg", "Slomania", "Svobodagrad", "Onsburg", "Hasdroug", "Stabourg", "Juxent", "Nomkosol", "Tadasein"]
+	},
+
 ]
