@@ -1317,4 +1317,40 @@
 		"cities": ["Mistohir", "Fransoviac", "Embarstoï", "Pendrovac", "Sauvadok", "Bolioska", "Suvishir", "Nitoskiolov", "Detruskia"]
 	},
 
+	{
+		"name": "Wanmiri",
+		"leaderName": "Ethrasyl Tymeri",
+		"adjective": ["Wanmirien"],
+		"startBias": ["Coast", "Jungle"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Hinduism",
+		
+		"startIntroPart1": "Les Wanmiriens sont originaires de l'Ouest du Nazum, à l'emplacement actuel de l'Empire Xiaorois. Le royaume Ilyote (patrie des Wanmiriens), alors bien implanté, fut mis à bas par une invasion d'arabes musulmans venus d'Astyarie au milieu du XII ème siècle (1143). Le peuple, maltraité, va fuir, provoquant le plus grand mouvement de population de l’époque. Partis par la mer en majorité, de grandes communautés vont s’implanter dans les îles de la mer afaro-nazumie et dans l’Empire Yahudharma (créé par le Jashuria). Dans les îles, une culture de pêcheurs, et de commerçants va voir le jour. Sur le continent, c’est en se refermant sur elles-même que les communautés implantées vont conserver leurs rites et croyances.",
+		"startIntroPart2": "En 1852, à la chute de l’Empire Yahudharma, de nombreux pseudo-royaumes et entités indépendantes vont réclamer la possession de la péninsule du Nazum. L’une d’elles, l’Empire du Viswani (Wanmiri en Yapur), va progressivement les unifier, sous l’égide d’une monarchie absolue de droit divin (hindouisme). Le régime est impopulaire et fermé à l’étranger. Il va connaître de nombreux troubles, particulièrement dans les îles, soumises tardivement, et qui restent relativement indépendantes. En 1979 débutent des mouvements de lutte non-violente, suivis en 1981 d’une grande manifestation dans les îles, violemment réprimée. En 1985 vient la “Grande Purge”, où de nombreux opposants politiques seront arrêtés puis expulsés, quand ils ne sont pas déportés ou assassinés. Cette terreur va conduire à une lutte armée, caractérisée à partir de 1998 par l’apparition de mouvements de guérilla. Ceux-ci se transformeront en 2003 en une guerre civile ouverte, lors du retour d’Ethrasyl Tymeri, enfant d’opposants rejetés en 1985. Celui-ci fédérera les mouvements et apportera l’aide d’investisseurs jashuriens et de pirates pharois. Après 6 années d’une guerre meurtrière, la victoire des révolutionnaires est claire et l’on proclame la République du Wanmiri. Après plusieurs référendums, l’Etat se constitue sous la forme d’une république- unifiée (malgré les nombreuses ethnies) qui se veut démocratique.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Le Wanmiri souhaite la bienvenue à tous les ambassadeurs et diplomates.",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [29,78,206],
+		"innerColor": [231,8,13],
+		"uniqueName": "Pauvreté",
+	        "uniques": ["[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Sivagundi", "Talo", "Aaethalio", "Ilryd", "Jalitaya", "Dhatari"]
+	},
+
 ]
