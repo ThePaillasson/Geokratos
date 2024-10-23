@@ -265,4 +265,17 @@
 		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "missile"
 	},
+
+	{
+		"name": "Vedette de pirates",
+		"unitType": "Melee Water",
+		"replaces": "Privateer",
+		"uniqueTo": "Wanmiri",
+		"movement": 5,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Navigation",
+		"promotions": ["Coastal Raider I", "[Privateer] ability"],
+		"attackSound": "cannon"
+	},
 ]
