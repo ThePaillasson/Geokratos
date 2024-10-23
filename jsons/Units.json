@@ -255,7 +255,7 @@
 		"name": "Missile Obéron",
 		"unitType": "Missile",
 		"replaces": "Guided Missile",
-		"uniqueTo": "Loduarie",
+		"uniqueTo": "Carnavale",
 		"movement": 1,
 		"strength": 40,
 		"rangedStrength": 40,
