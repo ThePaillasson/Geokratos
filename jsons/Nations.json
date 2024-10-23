@@ -1281,4 +1281,40 @@
 		"cities": ["Bryngaerdinas Pil", "Sicherkrik", "Porth Dwyrpen", "Camford", "Porth Rhydweli", "Caer Penrhyn", "Windport"]
 	},
 
+	{
+		"name": "Estalie",
+		"leaderName": "Piotry Husak",
+		"adjective": ["Estalien"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Il reste encore à faire. La Révolution a complètement renversé les institutions royales en place et les partis qui composaient alors la scène politique estalienne. Depuis la prise de parole d’Husak, les villes et villages d’Estalie s'auto-organisent depuis la chute des institutions étatiques et si l'armée s'est majoritairement ralliée aux révolutionnaires depuis lors, seul le Parti Populaire Estalien et le Congrès du Parti semblent figurer comme les seules institutions du pays, essayant tant bien que mal de se rattacher aux anciennes structures de l'État. Cependant, le Congrès subit encore une crise de légitimité au sein même du mouvement révolutionnaire qui comprend des anarcho-communistes, des marxistes-léninistes, des communistes puristes, des stalinistes mais aussi des sociaux-démocrates, des socialistes et des républicains libéraux.",
+		"startIntroPart1": "Depuis la Révolution du début Novembre, la principale personnalité politique de la Fédération restera évidemment Piotry Husak, ancien bras droit du regretté martyr Bondarenko et désormais chef du Parti Populaire Estalien. Considéré comme la personnalité forte de la Révolution, Husak est en bonne voie d'obtenir le pouvoir sur toute la Fédération de part son influence, son charisme et son intelligence politique qui lui a permis de fomenter cette Révolution. Néanmoins, il n'est pas seul.",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "Salutations",
+		
+		"neutralHello": "Bonjour.",
+		"neutralLetsHearIt": ["Parle."],
+		"neutralNo": ["Non."],
+		"neutralYes": ["Oui."],
+
+		"hateHello": "Bonjour.",
+		"hateLetsHearIt": ["Parle."],
+		"hateNo": ["Non."],
+		"hateYes": ["Oui."],
+		
+		"afterPeace": "Au revoir.",
+		"tradeRequest": "Au revoir."
+		
+		"outerColor": [0,0,0],
+		"innerColor": [153,0,0],
+		"uniqueName": "Fédération Anarchiste",
+	        "uniques": ["[-10]% Culture cost of adopting new Policies", "[+50]% Golden Age length"],
+		"cities": ["Mistohir", "Fransoviac", "Embarstoï", "Pendrovac", "Sauvadok", "Bolioska", "Suvishir", "Nitoskiolov", "Detruskia"]
+	},
+
 ]
